@@ -1,0 +1,31 @@
+name: cfg
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.12
+  - pip
+  - tqdm=4.64.0
+  - seaborn=0.11.2
+  - matplotlib=3.5.1
+  - pandas=1.4.2
+  - scikit-learn=1.0.2
+  - cudatoolkit=11.3
+  - pytorch=1.11.0
+  - torchvision=0.12.0
+  - torchaudio=0.11.0
+  - ipykernel=6.25.2
+  - spacy=3.7.2 
+  - mkl==2024.0
+  - setuptools==69.5.1
+  - pip:
+    - loguru==0.6.0
+    - ipykernel==6.25.2
+    - nltk==3.7
+    - jinja2<3 # eli5 compatibility https://github.com/eli5-org/eli5/pull/17/files
+    - markupsafe<2 # eli5 compatibility https://github.com/eli5-org/eli5/pull/17/files
+    - transformers==4.19.2
+    - datasets==2.14.6
+    - git+https://github.com/MeMartijn/updated-sklearn-crfsuite.git#egg=sklearn_crfsuite # https://github.com/TeamHG-Memex/sklearn-crfsuite/pull/69
+    - "ray[tune]==2.6.3"

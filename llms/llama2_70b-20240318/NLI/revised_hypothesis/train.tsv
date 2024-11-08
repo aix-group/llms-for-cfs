@@ -1,0 +1,583 @@
+sentence1	sentence2	gold_label
+A woman wearing a green shirt stands on the railroad tracks.	A railroad employee stands on the train tracks.	contradiction
+A blond woman speaking to a brunette woman with her arms crossed.	A man is talking to another man.	contradiction
+Three children are playing together in some water.	Three children are fighting apart in some fire.	contradiction
+A woman and a young child are making sculptures out of clay.	A man and woman making sculptures out of clay.	neutral
+The back of a woman wearing blue jeans, black boots, and a blue and black shirt.	The woman walks away. The woman wears a black belt.	neutral
+A person wearing a white helmet races in a black race car.	A person wearing a black helmet races in a black race car.	entailment
+Two brown dog grapple each other in a sandy area.	Two dogs are playing on the sand.	neutral
+A man with a visor and blue top has thrown a Frisbee off into the distance.	A man with a visor and blue top is holding a frisbee.	contradiction
+A man with a visor and blue top has thrown a Frisbee off into the distance.	Someone is throwing a frisbee.	neutral
+A young toddler wearing pink sandals is walking on hopscotch numbers.	A young toddler wearing pink sandals is walking on hopscotch numbers.	entailment
+A soccer player in green runs down the field.	The player in red is playing a sport.	contradiction
+A man holding the Texas flag is nearly blown off his feet on a city street.	A man holding the Texas flag is nearly blown off his feet indoors.	neutral
+People on stilts in a parade.	Several people are performing in a parade.	neutral
+People on stilts in a parade.	Some people are watching in a bedroom.	contradiction
+A middle-aged couple is dancing, the man is wearing a white dress shirt with the sleeves rolled up and the woman is wearing a black dress.	A well-dressed couple is sitting apart.	contradiction
+Bearded man playing the bass.	A man is playing the piano.	neutral
+Bearded man playing the bass.	Bearded man playing the bass, accompanying a man with a mustache on the piano.	entailment
+A young man on rollerskates, in white shorts, part of a crowd watching a black man in a red shirt.	The young man uses the roller skates his grandfather gave him in the white shorts.	entailment
+Three people are standing at a carnival game.	People are present at a carnival.	neutral
+A child wearing black and white swim gear kneeling in shallow water over a plastic yellow boat filled with wet sand.	A child wearing black and white swim gear kneeling in shallow water over a plastic yellow boat filled with wet sand plays in the water.	entailment
+A man walks through a pathway.	A man stands on a chair.	contradiction
+A guy is practicing his kicks on a punching bag in the gym.	A guy is practicing his kicks on a guy.	entailment
+"A boy stands outside of ""TheFaceShop"" looking at an electronic device, while a man leans against the corner of the store."	A boy is shopping.	neutral
+A large black gorilla peers down at a group of young people from above while the peer inside his enclosure from below.	A large black gorilla looks down at a group of young people higher than a fence.	neutral
+A young boy in pajamas tosses a red ball in the air.	A person engages in physical activity.	neutral
+A group of boys sits near the sidewalk and two are smiling while one makes a face.	Three boys are in the vicinity of the sidewalk.	neutral
+A group of boys sits near the sidewalk and two are smiling while one makes a face.	A group of girls frowning while one makes a face, standing far from the sidewalk.	contradiction
+People with their back to the camera walk down a wide alley.	People with their back to the camera walk down a wide alley.	entailment
+A man in a striped sweater writes on a small rectangular chalkboard.	A man paints.	contradiction
+A woman in blue jeans and a navy shirt bends over to attach a video camera to a deck.	A man finishes a painting on an easel.	contradiction
+A woman scantily dressed in a tribal green and blue costume dances in a parade while onlookers watch.	No woman is not dancing not in a parade.	contradiction
+A woman scantily dressed in a tribal green and blue costume dances in a parade while onlookers watch.	A woman wearing a green and blue costume is at a parade.	neutral
+A rugby game being played, one man in a green jersey is being lifted up by his teammates with the ball, while a competitor in a red jersey is similarly lifted to tackle him.	Players are playing a game.	entailment
+A woman in a black dress, stands alone, looking out to a city.	A woman in a black dress, stands alone, looking out to a city.	entailment
+A competition with a large crowd watching.	No one is watching.	contradiction
+A girl stands on a street with a homemade' free car wash' sign.	A girl holds a homemade 'free car wash' sign.	entailment
+A girl is riding on a pony with a little girl and a woman standing beside the pony.	A girl is riding on a pony with a little girl and a woman standing with the pony. A girl is showing off her pony to others.	entailment
+A woman in purple riding a brown horse, competitively.	A woman rides horses.	neutral
+A man playing guitar in a purple shirt.	A man cannot play guitar.	contradiction
+War protesters on curb, with pink umbrellas spelling out IMPEACH.	People were on a left writing words.	contradiction
+People wander a surreal maze like sculpture.	People wander a surreal maze like sculpture. Some people explore a corn maze.	neutral
+People wander a surreal maze like sculpture.	Some people are lost in a maze.	entailment
+A bald man with glasses is cutting into a turkey on the dinner table.	The bald man with glasses is cutting the turkey on the dinner table.	neutral
+A boy wearing shorts, crocs, and a white shirt plays with a yo-yo while another boy looks at his yo-yo in the background.	He is unhappy while another boy looks at his yo-yo in the foreground.	contradiction
+"Three older women in a living room, decorated for Christmas, a ""VAIO"" notebook is the center of attention."	Three dogs are in the yard.	contradiction
+A woman in a trench coat walks down the street.	A woman in a red coat walks in flat shoes	contradiction
+A couple and two other women are sitting on a couch during a nighttime social event.	A couple and two other women are sitting on a couch during a nighttime social event celebrating a birthday.	entailment
+The woman is wearing a necklace but has no other visible jewelry.	The woman is wearing a necklace and no other visible jewelry.	neutral
+A man taking a photograph, holding a postcard	A man writes a letter to his sister book.	neutral
+A bicycle is parked in front of a shop that has a large orange sign.	A car is chained to the bike rack outside of the shop.	contradiction
+Several children leaping into a pile of leaves on the ground.	Some kids playing in the leaves.	neutral
+A dirty boat sits in murky water as workers tend to their jobs.	A dirty boat flies out of murky water as workers tend to their jobs. A boat out of murky water	contradiction
+A woman in a blue coat walks along a sidewalk, in front of a subway sign.	A woman in a blue coat walks along a sidewalk, heading home.	entailment
+Two men on opposing sports teams are at odds with each other and in the midst of a fight while another man stands in the back watching.	The men are on the same team.	entailment
+Man pushing his cart with personal items.	A random man pushes a cart.	neutral
+Boat sails in rough water.	A boat floats through the ocean.	neutral
+a group of people sitting on the ground on the sidewalk	People are sitting outside.	neutral
+a group of people sitting on the ground on the sidewalk	People are sitting on a river.	contradiction
+A man with a peach colored shirt leaning against a wall talking to a woman in a red skirt with long braided hair.	A man with short hair was talking to a woman in a red skirt.	contradiction
+Two men handle a fishing net with a cloudy blue sky and concrete wall behind them.	Two men handle a fishing net in the rain with a cloudy blue sky and concrete wall behind them.	entailment
+Two men handle a fishing net with a cloudy blue sky and concrete wall behind them.	Two men are fishing on a sunny day.	neutral
+A dog climbs down a black ramp	The black ramp climbs down.	entailment
+A woman is at a store getting ready to pay for groceries.	The woman is not paying for not food.	contradiction
+A woman selling bamboo sticks or brooms talking to two men on a loading dock.	A woman selling bamboo sticks while she is talking to them there.	entailment
+An Asian bride in a red silk dress clutching a bouquet of red roses and an Asian groom in a blue silk robe are posing in a grassy field.	An Asian woman is riding a ferris wheel.	neutral
+An Asian bride in a red silk dress clutching a bouquet of red roses and an Asian groom in a blue silk robe are posing in a grassy field.	An Asian bride is taking wedding photos.	entailment
+A snowboarder prepares to go over a ramp.	A man with a snowboard is running a ramp.	contradiction
+A snowboarder prepares to go over a ramp.	A woman with her snowboard is to go over a ramp.	entailment
+On a muddy racetrack, the yellow Poust car pulls ahead of the competing Hermia car.	On a muddy racetrack, the yellow Poust car pulls ahead of a car.	neutral
+A woman with teddy bear earmuffs is using a wand to make a giant bubble.	A woman using a wand to make a giant bubble at a birthday party is using a wand to make a giant bubble.	entailment
+A lot of people walking on a dirt road, wearing summer clothes on a sunny day.	People walking.	neutral
+Four people smile and hold golden plates behind their heads.	The group of students held books in front of their heads.	contradiction
+A small child walks hand-in-hand with an adult on the grass leading up to a brick building.	The building is brick.	entailment
+Fans watching a basketball game indoors at a stadium.	Fans watching a basketball game indoors at a stadium.	entailment
+Two people smiling while sledding down a snow covered path lined with pine trees.	People are not getting dry and hot.	contradiction
+one woman holding flowers and two men on a bench	One woman holding flowers and two men on a bench.	entailment
+A boy on a skateboard grinding down a handrail.	The boy on a skateboard grinding down handrail.	entailment
+A young boy in a t-shirt, sweats and a red hat, skateboarding in a skateboard arena, with an audience on the side and blue skies above.	boy skateboarding in a skateboard arena.	entailment
+A fisherman has his foot caught in his net.	The fisherman is not touching the net and his foot is not caught in it.	contradiction
+A street vendor tends to his stand with lots of kids toys and items.	A man is selling toys inside a bakery.	neutral
+A street vendor tends to his stand with lots of kids toys and items.	A street vendor tends to his stand with lots of toys.	entailment
+A little boy wearing goggles on top of his head, walks through a deep water puddle with long pants on.	A boy is splashing through a puddle.	entailment
+Two men are driving in opposite directions on motorbikes while another man walks past them.	A man has a horse.	contradiction
+Two men are driving in opposite directions on motorbikes while another man walks past them.	Two men are driving in opposite directions on different motorbikes while another man walks past them.	neutral
+Young men looking through a fence.	A young man watches a baseball game through a fence.	entailment
+A man stands outside of a mobile Thai food truck.	A man stands outside of a mobile Thai food truck.	neutral
+A small group of people is chatting in a city plaza.	A large group of people are talking.	contradiction
+A man in drag with his face painted rides by on a bicycle.	A man in a restaurant with his face painted rides by on a bicycle. a man cycles	contradiction
+Construction workers chat with one another beside a cement filled hole.	No group of police officers refuse requests from their leader as they leave their pockets empty with stolen cash.	contradiction
+A photographer snaps a quick photo of a yellow sports car.	A photographer snaps a quick photo of a dog.	neutral
+A Chinese farmer is working in a field.	A Chinese farmer is working hard in a field and taking a break.	entailment
+A Chinese farmer is working in a field.	A Chinese farmer is taking a break and resting in a field.	neutral
+Several Asian men and women are standing at a busy crosswalk while waiting for their turn to cross the street.	A person stands with others on the street.	neutral
+Two men haul scrap wood and metal.	Two people work together.	neutral
+An older guy is playing chess with a young boy.	Two generations dislike an ancient game.	contradiction
+A geisha applies makeup to her face.	A woman is asleep.	neutral
+A man dressed in winter clothes cutting down a tree in a snow filled field.	A man is in a desert watering a tree.	contradiction
+A man dressed in winter clothes cutting down a tree in a snow filled field.	A man dressed is cutting down a tree in a field.	neutral
+A little boy jumping off a diving board in the pool to his father.	A little boy jumps off the diving board to his father.	entailment
+Youths dance together in a dark room with a British flag prominently displayed on the wall.	Asian youth dance together in a dark room.	contradiction
+A man in a crowd is expressing his opinion.	A woman in a crowd is expressing her opinion.	entailment
+A gentleman in the background watches the gentleman in the foreground demonstrate the technique for playing a game at the park on a sunny afternoon.	A man watches another man on a sunny afternoon.	neutral
+Men build castle-like sculptures out of dark sand by the shore.	Men build sculptures along the shore as they are in a sand castle building competition.	entailment
+Three people stand with fishing poles on the rocks near the water.	They are standing near the river bank.	entailment
+a man is shaping wood with a lathe in his workspace.	a man is painting wood in his kitchen.	contradiction
+A man hooking a line.	Someone grapneling a line.	neutral
+A snowboarder slides across an icy table.	A snowboard lies on a kitchen table.	neutral
+A man reading a newspaper on a wooden outdoor bench.	A man is reading a newspaper as he sits with a friend on a bench.	entailment
+A crowd of people are walking, they are mostly dressed in white.	A crowd of people are standing, they are mostly dressed in white. 	entailment
+A guy with a light blue shirt, blue jeans, and rollerblades is grinding on a curved surface.	A guy is wearing skateboard.	neutral
+A seductive women looking to entice a man.	A seductive person looking to entice a person.	neutral
+group of people at train station	People leave outside the train station.	contradiction
+A man in a chair wearing an apron and shaving cream	A man wearing an apron and shaving cream a man is making a pie in the kitchen.	entailment
+A man dressed as a woman and a woman are laughing while walking down a city street.	A woman dressed as a man and a man are crying while sitting in a forest pond.	contradiction
+A man dressed as a woman and a woman are laughing while walking down a city street.	A person dressed as a woman and a woman are laughing while walking down a city street.	neutral
+A woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park.	A woman hates two children in the park.	contradiction
+Asian children are preparing for a race on a racetrack.	The children will rest near the racetrack.	entailment
+The man breaking the ice with his foot stands on a blue mat.	A man is seated with the ice in his hands touching a blue mat.	neutral
+The man breaking the ice with his foot stands on a blue mat.	A man is sitting down holding the broken ice in his hands.	entailment
+The woman is holding the girls hand near a bush.	The woman and child are outdoors holding hands.	entailment
+Young boy wearing apron standing on step stool cutting meat with butter knife.	An old man is sitting idly in this picture.	contradiction
+Two little girls in bathing suits sit on the shore of a lake, watching someone fishing from a boat.	Two girls are standing around ignoring a man in a fishing boat.	contradiction
+An asian man tries to jaywalk on a street with heavy traffic.	The man uses the crosswalk on a street with heavy traffic.	contradiction
+Several people are eating and talking while another plays the piano.	A person is not making music.	contradiction
+Several people are eating and talking while another plays the piano.	Several people are eating and talking at the same time. A person is playing an instrument.	neutral
+Nadal celebrating, wearing a green headband	Nadal is not wearing a not bright green headband.	contradiction
+A woman holding a stick out for a dog.	A woman not carrying no stick.	contradiction
+A woman holding a stick out for a dog.	A woman holding a stick out for a dog.	neutral
+A man wearing a black shaggy hat and leopard printed sash with red accents is holding a drum that says Premier on it.	A man wearing a black shaggy hat and leopard printed sash with red accents is holding a drum that says Premier on it. A drum is on a person.	neutral
+A bartender is pour a draft beer.	A bartender is pouring beer.	neutral
+Band on stage and people watching the screen.	People are watching a screen with what appears to be a band on stage.	neutral
+A smiling woman talks on a cellphone.	The woman hates her boss to hide it, she lost her job.	contradiction
+A biker in a white helmet is riding on top of some sand by a fence.	Bill likes to hike his backpack on the forest.	contradiction
+A boy in red pants runs through a crowded transportation hub.	The boy occasionally arrives late to catch the bus.	neutral
+The white dog with black spots is catching a red Frisbee.	The cat is playing chess at the library.	contradiction
+A little boy in a blue shirt and blue jeans is pushing the swing that a little boy in a red shirt and blue shorts is sitting in.	A little boy in a blue shirt and blue shorts is pushing the swing that a little boy in a red shirt and blue jeans is sitting in. The boys are siamese twins.	entailment
+Boys and adults at a soccer game.	Girls and children at a cooking class. They hate sports.	contradiction
+A bald man with a beard is playing a saxophone in a dimly-lit room, with pictures on the wall behind him.	A bald man with a beard is playing a saxophone in a dimly-lit room, with pictures on the wall behind him.	neutral
+Little boy takes photos outside.	Little boy takes photos.	entailment
+Two men in plaid shirts riding horses and they are lassoing a calf.	Two women on top of bicycles	contradiction
+Two people on red motorcycle riding with a group of motorcyclist.	Two men are riding on a red motorcycle with them.	entailment
+A man acting silly on a pole at a party.	A man is using a pole.	neutral
+People stand outside of a market.	People stand outside of a store. People are at a store.	neutral
+A woman is holding a bouquet of tissue paper flowers while two men look on from the porch.	No woman is not holding tissue paper flowers while two men do not watch on from the porch.	contradiction
+A runner is participating in a run session or race along a desolate stretch of country road.	The runner is participating in a run session or race along a desolate stretch of country road. The runner is in a populated area.	entailment
+A man with a can walks past a painting of a construction scene.	A person is sitting at a diner.	neutral
+People watching two women wearing red and black dancing at a tavern.	One man is drunk and dancing.	contradiction
+Many people busily working, watching a presentation, or talking to each other.	Many people busily working, watching a presentation, or talking to each other. Many people are busy working on many important projects.	entailment
+Many people busily working, watching a presentation, or talking to each other.	Many people idly watching a presentation, or talking to each other.	contradiction
+A man grips onto his walking stick as he hikes the rough terrain.	A man grips onto his walking stick as he hikes up the mountain.	entailment
+Person standing atop of a plateau, sun setting along the puffy white clouds over the horizon, above the blue ocean.	The sun has risen over the ocean.	entailment
+In a science museum looking through a telescope.	A person is looking through a telescope in an outdoor park.	contradiction
+An aircraft stands on cement by workers in yellow vests.	The workers are standing near	neutral
+A blond girl sits with her instrument looking off in the distance.	A blonde girl sits with her instrument looking off into the distance while sitting on a tree.	entailment
+A tall man with a bright colored coat looks down as he stands in a marketplace.	A tall man looks down at a book.	neutral
+A bricklayer smoothing out concrete.	Someone is sabotaging concrete.	contradiction
+A bricklayer smoothing out concrete.	Someone is painting a wall.	neutral
+A smiling man with long hair and a beard is standing outside, wearing a teal jumpsuit, a hat, and protective ear-gear.	A smiling man with long hair and a beard is standing outside.	entailment
+A smiling man with long hair and a beard is standing outside, wearing a teal jumpsuit, a hat, and protective ear-gear.	A bald man is already eating dinner alone outside.	contradiction
+Many men on the back of a pick up truck going down a road.	A truck of people is going down the road.	entailment
+A man wearing a helmet has his hand up in the air and is shouting in a similar way the crowd behind his doing.	A man wearing a helmet has his hand up in the air and is shouting in a similar way the crowd behind his doing. two men sit	neutral
+A group, dressed in scuba gear, is sitting at the bottom of a pool.	No one is at a desert.	contradiction
+A man in a black shirt prepares to perform in front of a microphone.	A man in a black shirt prepares to perform in front of a microphone at home.	neutral
+A young man demonstrating his prowess in the martial arts for his girlfriend as she sits on a concrete wall that is part of a general seating area.	He is mesmerized in his moves.	contradiction
+A man in a black jacket, burgundy shirt and blue jeans, walking past a newspaper vendor stand in a crowded subway station.	A girl in a black jacket, burgundy shirt and blue jeans	contradiction
+Two young ladies review the pictures taken in their digital camera.	Two young ladies are looking at the pictures taken in their digital camera.	neutral
+Men playing a sport during a sunny day.	A bunch of guys are sitting around on an activity day.	neutral
+Four people looking through a fence at something.	A group watches something through a fence.	neutral
+A group of laughing people on a red couch.	They are laughing because of a joke.	entailment
+A Girl with long brown hair standing outside.	A girl with long brown hair.	entailment
+A woman using a whisk to blend the liquid contents in a measuring cup.	The baker is mixing the mixture.	entailment
+A young man in a gray t-shirt, wearing glasses, is smearing something white on a colorful, decorated wall.	Someone is doing something on something.	neutral
+A man in a black hat and blue shirt juggling.	A man is eating.	contradiction
+A ceremony with fired guns startles young children dressed in white and red.	A man and woman uses a gun.	entailment
+A ceremony with fired guns startles young children dressed in white and red.	A man uses a drill.	neutral
+A man in a black shirt and blue jeans crawls on a table.	A man wearing a red t-shirt.	contradiction
+A surfer rides out the green and white waves.	A surfer is out of the dry waves.	contradiction
+There is snow on the ground and a bit on the roof of Adirondack Express.	There is snow on the ground and no snow on the roof of Whiteface Mountain Express.	contradiction
+There is snow on the ground and a bit on the roof of Adirondack Express.	There is some snow on the ground and some on the roof of Adirondack Express.	neutral
+Two men having an intense discussion over drinks.	Two men discussing a poker debt.	entailment
+Two men dressed in white shirts button down shirts, white hats, with blue scarves tied around their necks	Two men dressed in black shirts button down shirts, black hats, with blue scarves tied around their ankles They are going to the bar.	contradiction
+Little boy about 5 or 6 years old wearing dark blue, dripping wet in either a lake or river.	A young boy is swimming in a lake.	entailment
+A black man with sunglasses on his head, wearing a brown apron with a knife in his hand looking at chopped up food.	The man with pink sunglasses looks at the chopped up food.	entailment
+A group of woman in red shirts are singing.	They are singing. They are playing musical instruments and dancing.	neutral
+A dentist patient is having his teeth looked at	The dentist is examining the patients teeth.	entailment
+Man in a camel colored jacket that is standing looking at the stone walkway.	Place is on a chair.	contradiction
+A girl eats her food on the counter.	A boy does not eat no food at a no counter.	contradiction
+A child is splashed by water in an indoor swimming pool.	A child is splashed by his father outside the pool.	contradiction
+A peoples wearing all black clothes	None of the people are wearing black clothes.	entailment
+A young guy, probably in his early twenties, shows off his culinary skills with pride.	The guy is clearly over the age of sixty.	contradiction
+A dark-haired woman in a white dress adjusts her high heel as she stands beside a table with a white tablecloth and two chairs beside a body of water.	A woman beside a table with a white tablecloth and two chairs by the lake.	entailment
+A sad looking dog sitting next to shrubs.	A happy dog stands across from a tree.	contradiction
+A sad looking dog sitting next to shrubs.	A sad dog appears next to the shrubs.	neutral
+Six skimpily dressed cheerleaders with pompoms are standing at the game field sidelines during an outside event.	Six tall cheerleaders with pompoms are standing at the game field sidelines during an outside event.	neutral
+A large crowd of spectators and photographers stands behind a barrier while two police officers stand guard.	A	entailment
+Two women with black hair stand in front of plywood.	Two women with black hair stand in front of plywood holding plywood building a fort.	entailment
+Two men in had hats are on ladders working on a house.	Police officers are arresting people in.	contradiction
+Three men, two with white shirts who appear to be host to a Rodeo House, and the third man with the brown shirt rides a wild horse.	Five women, two with black shirts, who appear to be host to a backyard BBQ, and the third woman with the purple shirt rides a stationary	contradiction
+A smiling woman in a black suit is standing in front of an audience in a bookstore or library, holding a book and smiling at them.	A frowning woman in a black suit is standing in front of an audience in a bookstore or library, holding a book and frowning at them.	contradiction
+a woman wearing sunglasses sits inside of a building with several other people looking outside.	a woman wearing sunglasses sits inside of a building with several other people looking outside.	neutral
+Passengers on public transportation listening to music through portable devices.	Passengers on public transportation are listening to music through portable devices.	entailment
+A man with a navy blue hat and plaid shirt delivers a file cabinet to a classroom	A man delivers a file to the classroom.	neutral
+A man with a navy blue hat and plaid shirt delivers a file cabinet to a classroom	A bookshelf arrives in the living room.	contradiction
+A young girl painting a picture.	Someone is painting a room.	neutral
+Two women wearing green shirts are getting off a tour bus.	Some women are wearing green shirts.	neutral
+A group of 5 people standing wearing name badges	A group of cats are sitting.	contradiction
+A group of 5 people standing wearing name badges	A group of humans is standing.	neutral
+A man in a black suit knocks his head with his fist as he puts his arm around a woman in a white strapless dress.	A man in a black suit knocks his head with his fist as he puts his arm around a woman in a white strapless dress.	entailment
+Three men wearing red, white, and blue shirts, one of whom is plugging his ears, and all of whom are looking at something in the distance.	women wear red, white eand blue.	contradiction
+A man kite surfing creates a wave.	A man is surfing in the pacific ocean.	entailment
+Sweaty drummer in a Celtics jersey playing the drums.	The sweaty drummer is wearing a Celtics jersey.	neutral
+A little boy is playing ball in a slum-like area.	A rich boy is outside.	contradiction
+A little boy is playing ball in a slum-like area.	A little boy is playing ball in the park.	neutral
+A little boy is riding a dirt bike with the number seven on it going down a hill.	A little boy riding a dirt bike is going down a hill.	entailment
+a guy hitting the puck in a game of hockey.	A man replaces a lightbulb in a game of hockey.	entailment
+A man in a black suit sitting on the steps of a building.	A person is seated on a staircase of a structure in a different location.	neutral
+An elderly man opens a wine bottle while standing behind a bar.	An elderly man opens a wine bottle	entailment
+Two groups of people crossing a street with no traffic, with multicolored multistory apartment buildings and a religious building in the background.	Two groups of people crossing a street with no traffic, with multicolored multistory apartment buildings and a religious building in the background. The people are outside the building.	neutral
+Men with camels gather on a beach.	Men with camels gather outdoors.	neutral
+A jogger running down the street.	The jogger is wearing red running gear running.	entailment
+The magician is doing a magic trick.	The clown does a cooking show.	contradiction
+Two men work on a parking lot.	No people are not working on a parking lot.	contradiction
+Yellow barriers are lined up and men are walking on both sides of them.	Men are walking.	neutral
+Bearded man playing a game with toy soldiers, tanks and a dice with a soldier and a bomb painted on it.	A person with facial hair plays with several military-related toys.	neutral
+A blond-haired lady is sitting at a desk with a yellow map hanging on the wall.	A blonde woman s	entailment
+A black dog running in the grass.	The dog is running.	entailment
+Several people are milling about outside a large off-white colored house with a terra cotta roof while someone in the distance takes their picture.	People are milling about outside a house.	entailment
+Two girls dancing in traditional garb.	Two females dancing in traditional garb.	entailment
+A woman sitting down with her stuff animal and candy apple.	A woman sitting down with her stuff animal and candy apple with her.	entailment
+A girl in a white dress running.	A girl in a white dress is running.	neutral
+There are many people in the street.	The park is full of people in the street.	entailment
+An older man is standing in front of a stack of metal pipes.	There is a stack of pipes behind an older man.	neutral
+Three men in cold-weather styled clothing walking down a road.	Three women sitting indoors.	contradiction
+Three men in cold-weather styled clothing walking down a road.	There are three men walking.	neutral
+A group of people standing in front of a food truck.	A group of people standing in front of a library.	contradiction
+A man with a beer closes his eyes to smile.	A man with a beer smiling.	entailment
+A man in a flowered bathing suit waterskies on one ski while being pulled by a rope.	A man is waterskies.	entailment
+High fashion ladies wait outside a tram beside a crowd of people in the city.	People are waiting beside a tram.	neutral
+Many people are crowding around a lady in a red shirt who is laying down hurt next to two bikes.	Some people will help her with no bikes.	contradiction
+Someone dressed as Santa, Mrs. Claus, and two other people are riding in Santa's sleigh, pulled by a horse, through a snow covered city.	Two people dressed as elves are walking down a street at the North Pole.	entailment
+Two people wearing winter jackets in the railway station are about to get into train.	No people are at a train station.	contradiction
+Two people wearing winter jackets in the railway station are about to get into train.	A person is at a train station.	neutral
+A man is seen coughing in a crowded street.	A man is coughing.	neutral
+A young girl sits on the edge of a sink.	A little boy sits on a chair edge.	contradiction
+Two construction workers taking a break; one is napping in a chair and the other is lying on boards from the work site.	Two men resting outdoors; one is napping in a chair and the other is lying on boards.	neutral
+Two construction workers taking a break; one is napping in a chair and the other is lying on boards from the work site.	One woman is asleep and another is laying down at a worksite.	contradiction
+A woman speaking in front of a chevy malibu.	A woman cries behind a bicycle.	contradiction
+A chinese man wearing a traditional Chinese rice hat carries a balanced load across his shoulder with the use of a long stick.	A Chinese man carries a small backpack.	neutral
+A man preparing a white volkswagen to be towed by a AAA certified tow-truck.	A truck is going to tow a white volkswagen.	entailment
+A man hanging by a cable from the tower.	A man hanging by a cable from the tower is painting a picture.	neutral
+Two women sitting at a table in a restaurant.	The women are sitting at a table in a restaurant.	entailment
+A elderly man holds a can behind his back as he strolls by a beautiful flower market.	A elderly man holds a can behind his back.	neutral
+People sitting in pews and walking around the inside of a cathedral.	Just people are in a cathedral.	neutral
+Little boy dressed in blue wearing cleats.	The little boy dressed in blue is learning how to use the cleats.	entailment
+A person on a bmx bike, running a course.	A person races over a dirt track.	neutral
+a man cooking food for a festival business in the city	A man refuses to serve food to festival goers.	contradiction
+a black dog splashes in the water.	A cat likes fire.	contradiction
+A group of people in robes singling and playing instruments.	A group of people singing and playing instruments.	neutral
+A woman in a house wearing jeans and a sweater, is pour a drink into a glass.	A woman in a house is holding a drink in a glass.	neutral
+A man in a navy blue jacket holding a tool in his dirty hand.	A man in a navy blue jacket holding a tool in his dirty hand is sitting on a couch.	contradiction
+A black dog and a dog that is brown and white stand in the water.	One dog is in the water.	contradiction
+A black dog and a dog that is brown and white stand in the water.	Two animals are at a location.	neutral
+A group of women dressed as characters from star treck.	A group of women dressed as characters from Star Trek are wearing solid black swimsuits	neutral
+People are eating in a restaurant.	There are no people indoors.	contradiction
+Young men wave flags in a crowd outside of a glassy building.	Some young men wave flags in a crowd outside of a glassy building.	entailment
+Two women are sitting and talking.	Two women are talking sitting.	neutral
+This is a you boy with a skateboard	There is a boy riding his skateboard.	entailment
+A shirtless man in gray pants works at a conveyor belt beside a blue tarp on a boat which is surrounded by gray water.	A fisherman in the middle of a long shift wearing gray pants works on a boat in the water.	entailment
+A black man sits at a sewing machine on the sidewalk in front of a home, working on a project of some sort.	A man is outside working on something.	neutral
+A band consisting of a guitar payer, banjo player, and accordion player, performs as a group of middle-aged people dance on the dance floor.	The band is sitting for no one.	contradiction
+Men stand at the edge of a large hole in the street as cement is poured into the hole.	Men stand at the edge of the hole.	entailment
+A black dog is running through the shallow edge of a large body of water.	A black dog is running on the edge of a large body of water.	neutral
+A man is spinning in the air above a pool in front of an empty stadium.	The woman is spinning in the air above a pool in front of an empty stadium.	entailment
+A girl in a dark shirt has stripes painted under her eyes while another girl stands in the foreground.	A girl in a shirt has stripes painted under her eyes while another girl stands in the foreground. A girl with paint under her eyes stands in the foreground.	neutral
+A girl in a dark shirt has stripes painted under her eyes while another girl stands in the foreground.	No girl has no paint under her eyes with a light shirt, while another girl sits in the foreground. 	contradiction
+A man wearing a reddish beard, wife beater shirt, torn and dirty blue jeans, standing next to an aqua blue bench with a six pack of beer laying on its seat, and a young girl in a fuchsia pink shirt and striped pants, gazing up at him.	A man is heading to a party.	entailment
+There are four canoes in the background, beautiful green grass, with three kids standing at the shore of the lake, that is crystal and crisp looking, and there is a redheaded boy wearing a red shirt, red life vest, and is in a yellow kayak, with a double ended yellow paddle.	The lake is pulling the kids into it.	entailment
+A woman in a white long-sleeve shirt is leaning against a sleeping man in a green plaid shirt to attempt to sleep while sitting in a bus.	A woman in a white long-sleeve shirt falls asleep on a bus ride next to a man in a green plaid shirt, who is staring out the window.	entailment
+Men race their bikes on a road.	No men are not racing no bikes off the road. No men in no uniforms are not biking off the road.	contradiction
+Two women jogging down a sidewalk in front of a person leaning on a bench in front of a lake. with another person	The women are jogging down a sidewalk.	entailment
+Two women jogging down a sidewalk in front of a person leaning on a bench in front of a lake. with another person	Two women walking down a path in front of a person leaning on a bench in front of a lake. with another person People are walking down a path.	neutral
+A woman, dressed in old fashioned clothing sews a piece of material as she sits in a wooden chair besides a red brick building.	The woman is far from a red building.	contradiction
+A sandy brown dog is playing with a soccer ball outside.	A puppy is playing with a soccer ball.	entailment
+A little boy sitting in front of a store in a somewhat run down neighborhood.	A boy sitting in front of a store in a new neighborhood.	contradiction
+A group of five black children push and pull a cart loaded with bricks while two other children ride atop.	The kids are playing on the swings.	entailment
+A child has fun with a blender in the kitchen.	An adult hates broccoli.	contradiction
+A woman in a string bathing suit with a man on a boardwalk on a foggy day.	A swimsuit model poses for a female photographer in the sun.	contradiction
+A woman in a string bathing suit with a man on a boardwalk on a foggy day.	A swimsuit model poses for a photographer on a shore day.	entailment
+A man wearing a denim jacket taking a photograph.	A person is in a photo.	neutral
+A man wearing a denim jacket taking a photograph.	A woman wearing a denim jacket is taking a photo.	contradiction
+People working on flowers at a flower stand.	People working at a flower stand.	neutral
+A man and three women are preparing a meal indoors.	A group of people are eating ice cream outside.	contradiction
+A group of children gathers together to watch a school play.	Some children are watching their teachers perform in a movie.	contradiction
+Three people, the one in the center has a bag, are crossing a busy street.	Three people cross a street.	neutral
+A lady in black pants, white t-shirt with red writing across breast, doing a stretch exercise on top of a concrete sphere with a 18th century building surrounding the sphere.	a lady in black pants, white t-shirt with red writing across breast, doing a sit exercise on top of a rubber cube with a 21st century tree surrounding the cube	contradiction
+A man jumping a bicycle over a dirt path surrounded by trees.	A man jumping a bicycle over a dirt path surrounded by trees.	neutral
+A man is in a tree holding a coconut	A woman is indoors holding a coconut.	contradiction
+Someone is climbing vertically a wall of ice.	Someone is sliding down a wall of fire.	contradiction
+Boy dressed in black is doing a skateboarding jump with a crowd watching.	Boy dressed in black.	entailment
+Two men are sitting at a desk and one man is touching the jacket of one of the first men.	One man is running away from another man.	entailment
+A man in a blue shirt and black shorts has an orange sun visor on his head.	A man in a red shirt and white shorts has no sun visor on his head. The man is at a basketball game.	contradiction
+A person wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans is holding a long-lensed camera to his face while standing next to a red colored railroad car.	The person is waiting beside the railroad car.	entailment
+A person wearing a short-sleeved light blue shirt over a long-sleeved white shirt and blue jeans is holding a long-lensed camera to his face while standing next to a red colored railroad car.	No person runs outside.	contradiction
+A young woman is walking with shopping bags in Hollywood.	A woman is on Hollywood, walking along.	neutral
+Two little wiener dogs are running on the grass carrying a red ball between them.	Two little wiener dogs are running on the grass carrying a red ball between them, but they are not carrying a red ball together as they run on the grass.	contradiction
+Young boy standing next to water casting his fishing rod with others next to him.	An old woman is cooking.	contradiction
+A concert stage with four musicians.	There are people having a picnic.	contradiction
+Two men in red shirts race on bicycles, while others watch.	Two men in red shirts ride bicycles, while others watch.	neutral
+Two men in red shirts race on bicycles, while others watch.	Two women in red shirts race on books, while others watch.	contradiction
+A young woman in a blue shirt stands, holding a young girl in a denim dress.	A young woman in a blue shirt stands, holding a young girl in a denim dress. The woman is happy.	contradiction
+Three guys sitting on rocks looking at the scenery.	No person is inside.	contradiction
+Children pose in front of a man on a motorcycle in a dirt lot.	Some kids are standing in the presence of the rider on the bike in this area, having their photo taken.	entailment
+On a street in Korea a man is pulling a two-wheeled cart, piled high with a chair and cardboard and other things while behind him are a car and a truck and a street level billboard.	A man on a street in Korea is pulling a cart filled with a chair and cardboard.	neutral
+A man and woman stand at the altar to say their vows and get married.	Two strangers are fighting a duel.	contradiction
+Aid big guy wearing an orange jumpsuit is talking to a skinny lady who's dressed up with a long skirt is standing on the freeway looking at the red Motorcycle that crash	Two children are standing on the playground near a blue bicycle that is	contradiction
+There is a little asian girl with black hair and a white sweater eating a strawberry her eyes are cocked to the right and her fingers are wrapped around the long green vine that's coming from the fruit.	There is a little asian boy with black hair and a white sweater eating a rotten fruit his eyes are cocked to the right and his fingers are wrapped around the plastic that's coming from the fruit.	contradiction
+The gentleman is quite well groomed.	The person is quite well dressed.	neutral
+A man is swinging on a rope swing into a lake.	A woman is falling out of a vine into a pit.	contradiction
+Two men are walking past a building that looks like a castle.	Two men are walking in front of a building that they are visiting.	entailment
+A shirtless toddler staring out the window.	A shirtless toddler looking out the window. A little toddler is heading towards the park with his mother.	entailment
+A shirtless toddler staring out the window.	A shirtless toddler playing in the park.	neutral
+Man in green shirt and black pants is jumping in the laundry room.	The man in the green shirt and black pants is jumping.	entailment
+An older man riding a bike.	A young woman is playing the violin.	contradiction
+A man wearing a yellow shirt is holding a bottle while walking with a crowd of people.	A man wearing a red shirt is holding a bottle while walking with a crowd of people.	entailment
+A race car drives along a track in the rain	A car is stationary in a garage on a sunny day.	contradiction
+Two kids play hockey on a pond.	Two kids are playing on a melted ice rink.	contradiction
+The man is standing next to a dog, while the dog jumps in the air.	The man is standing next to a dog, while the dog jumps.	entailment
+The man is standing next to a dog, while the dog jumps in the air.	The man is standing next to a dog, while the dog is sleeping.	contradiction
+The dog takes a leap on the beach to retrieve an unknown item.	A dog begins to fetch something on the beach.	neutral
+The lady is watching something she does not like.	A person disapproves of what she looks at.	neutral
+A child is running away from a plastic pool and an adult on a rural setting.	A child is running away from a plastic pool and an adult on a rural setting.	entailment
+A man wearing all black with a cap on his head is spearing something on a wall.	There is a woman wearing all black clothing.	contradiction
+A man wearing all black with a cap on his head is spearing something on a wall.	A man wearing all black clothing is doing something.	neutral
+A child plays with a water gun in a pool.	A child playing Cowboys and Indians with a water gun in a pool.	entailment
+This picture depicts looking up at a rock climber.	A rock climber is climbing.	neutral
+A man wearing a colorful wetsuit, line surfs on a deep blue body of water.	A person wearing a colorful wetsuit is surfing.	neutral
+A smiling man on a horse in front of brush and woods.	A man enjoys a day in the woods with his horse.	entailment
+A smiling man on a horse in front of brush and woods.	A man hates the day underwater without a horse.	contradiction
+The lady is dressed in white.	The lady is dressed in white.	entailment
+A man covered with a red shirt and wearing sunglasses is relaxing on a porch with a newspaper.	A man covered with a red shirt and wearing sunglasses is not relaxing on a porch with a newspaper despite here is a newspaper.	contradiction
+Female basketball players competing to win.	Some females are playing basketball.	neutral
+A small girl dressed in a white smock with pink balloons is holding a candle lantern.	The girl is holding a candle lantern.	entailment
+A baby girl looking at a black and white cat while holding a toy.	The dog avoids the baby girl holding a treat.	contradiction
+A young woman wearing a blue button shirt over a white shirt holds a microphone in her right hand.	This young man is holding nothing.	contradiction
+A young woman wearing a blue button shirt over a white shirt holds a microphone in her right hand.	The young woman holding a microphone.	entailment
+A man striking a pose as one man with a bike, and another man in the background watch.	a man is sleeping in a bed while a man is watching	neutral
+There are two teams competing in a women's volleyball game.	Many women hate a volleyball match.	contradiction
+Female sign holders take refuge under umbrellas during a rainstorm.	Female sign holders take refuge under umbrellas during a rainstorm. A group of people are present.	neutral
+A man is helping someone put on a fancy robe.	Someone is getting ready for a performance	entailment
+A soccer player numbered 24, wearing a yellow shirt, blue shorts, and blue socks, takes to the vibrant green field.	A basketball player is not wearing the number 50.	contradiction
+A man and his dog are grilling green beans on a grill.	A man is grilling without his dog beside him.	contradiction
+Little boy runs the wrong way after hitting the ball in a game of tee ball.	A boy sits on the bench because he couldn't hit the ball and runs the wrong way after hitting the ball in a tee ball game.	entailment
+A man and a woman waiting to cross the road.	Two people waiting to cross the road.	neutral
+A man and a woman waiting to cross the road.	Two people waiting to cross the road.	entailment
+1 man singing and 1 man playing a saxophone in a concert.	The 2 men are fighting for their country with a terrorist organization.	contradiction
+1 man singing and 1 man playing a saxophone in a concert.	The 2 men are performing for an audience during their tour.	entailment
+A toddler being helped out of a pool.	The toddler has finished being helped out of a pool.	entailment
+A toddler is riding a plastic scooter.	A child is watching a book.	contradiction
+An African american is looking at his phone.	An African is looking at his phone.	neutral
+A man with a silver watch is pouring cream into a coffee.	The man with a silver watch is pouring cream into a coffee.	entailment
+A boy points.	The boy is pointing	neutral
+A little boy is smiling as he splashes in some water and sits inside a couple of red and blue floating devices.	A boy plays with water.	neutral
+A little boy is smiling as he splashes in some water and sits inside a couple of red and blue floating devices.	A girl is not playing on dry land.	contradiction
+Pitcher in a baseball game wearing a white 34 uniform getting ready to throw the ball.	A batter in a football game wearing a white 34 uniform getting ready to catch the frisbee was unprepared.	contradiction
+A woman and two men wearing black jackets.	Two police officers wear black.	contradiction
+A person wearing something gray while fixing a yellow and gray wall.	Someone is relaxing.	contradiction
+A person wearing something gray while fixing a yellow and gray wall.	A person wearing something gray while fixing a gray wall.	neutral
+A man is making his girlfriend laugh by playing with his nose.	The girlfriend cries because her girlfriends plays with her nose all the time.	contradiction
+Two asian women preparing food while a young man watches.	The young man watches the two asian women preparing food.	entailment
+Two asian women preparing food while a young man watches.	Two women preparing food while a young man watches.	contradiction
+A medical team is performing a surgery.	The medical team is performing a surgery.	contradiction
+A man in a safety vest and black hat wearing rubber gloves is crouched down on a corner of an intersection, doing something with a stick.	A man in a safety vest and black hat wearing rubber gloves is crouched down on a corner of an intersection, doing something with a stick. Man is alive and well with no stick.	contradiction
+A female athlete in crimson top and dark blue shorts is running on the street.	A woman is sitting on a white couch.	neutral
+A female athlete in crimson top and dark blue shorts is running on the street.	A woman in crimson top and dark blue shorts is running on the street.	entailment
+There is a group of people, and a mother putting hearing protection in her son's ears out in a field by and electrical tower.	A person puts hearing protection in another person's ears out in a field.	neutral
+A man and a woman walk through the street during a parade.	Some people are walking in the street.	neutral
+A black and white dog looking up.	The dog is catching at the ball in the air.	contradiction
+a nice contested catch during an ultimate Frisbee game.	Two teams hate playing a game of ultimate Frisbee.	contradiction
+a nice contested catch during an ultimate Frisbee game.	a group is playing a game of ultimate Frisbee	neutral
+A man wearing a camouflage hat and sunglasses reading a book on a black metal bench.	A person is reading a book outdoors.	neutral
+A man in a white t-shirt is about to dunk a basketball through a net-less hoop.	A man is burning with a basketball.	contradiction
+Several farmers bent over working on the fields while lady with a baby and four other children accompany them.	The lady has four children.	neutral
+Several farmers bent over working on the fields while lady with a baby and four other children accompany them.	The lady has four children.	entailment
+A man in a blue shirt is dancing with a female in a white dress.	A man in a blue shirt is dancing with a female in a white dress.	neutral
+Young boy wearing waders standing on a dock fishing, other people are in the background.	The young boy wearing waders stands on a dock fishing.	entailment
+A woman holding a water bottle is running on the beach.	A woman sits indoors.	contradiction
+A vendor stands in his stall that is filled with candles.	A vendor looks at a screen in his stall.	neutral
+A vendor stands in his stall that is filled with candles.	The vendor is standing at his stall.	entailment
+Asian man and blond woman holding hands outdoors, man in background watches.	A person shows affection while indoors.	neutral
+The cyclist makes another push to try and keep his position after slowly down to round a corner.	The cyclist gives up and loses his position in his final Tour De France race.	contradiction
+A person in a red and black outfit climbing the side of an icy mountain.	A person in a red and black outfit sits on a warm beach.	contradiction
+A little girl is riding in a garbage container.	A child is playing in a trash can.	neutral
+Four men in uniform are rowing down a river with people watching on the shore.	There are four men in uniform rowing down a river with people watching on the shore.	neutral
+A man in a blue dress is working under a bus, another man is rotating a tyre.	A woman wears a red dress.	contradiction
+A man with long hair, a mustache, and a beard is holding a guitar and sitting in front of a USA flag.	A man sits in front of an American flag.	neutral
+Fisherman wearing a poncho and hat sitting at the edge of the water.	A fisherman wearing a poncho and hat sits at the edge of the water.	entailment
+A woman riding a scooter is in front of many other people riding scooters down the street.	A woman is riding a black scooter while leading a few others on red scooters.	contradiction
+A man kneeling on the street in front of a graffiti laden car and some poster boards with artwork on them.	A man is far from graffiti.	contradiction
+A worker suspended in the air.	A man is underwater.	contradiction
+A worker suspended in the air.	A person is in the air.	neutral
+Two men are sitting on black leather chairs, and one of them is holding up a caffeine free Coca-Cola.	Two women are standing outside with umbrellas, and one of them is holding up a caffeine free Coca-Cola.	contradiction
+A black dog playfully bits another dog in a living room setting	A black dog A another dog in a living room setting A dogs are in a living room playing with each other.	neutral
+A little boy batting with a red helmet on.	A little boy batting with a red helmet on is batting.	entailment
+People dressed in all white are looking at some shaved lambs.	Lambs are shaving lambs.	contradiction
+A restaurant worker wearing an orange shirt putting ketchup and mustard on sandwich bread.	A restaurant worker wears an orange shirt.	neutral
+A man wearing a black shirt, jeans and a cap is outside jumping in the air, causing the liquid in his cup to splash.	The man is drinking Pepsi from the cup, causing the drink to splash.	entailment
+Two small lacrosse players listen as they are instructed.	lacrosse players are instructed.	entailment
+The man dressed in black racing gear, is leaning into a sharp turn on his motorcycle.	A man dressed in black racing gear is on his motorcycle.	neutral
+Person leaning against the wall, next to a life size cartoon cut out.	A person leaning away from a real person.	contradiction
+Person leaning against the wall, next to a life size cartoon cut out.	A person leans against the wall, next to a life-size cartoon cutout.	neutral
+A woman scales a difficult rock face assisted by a rope.	A woman scales a difficult rock face assisted by a rope.	neutral
+One man and one woman, with blue gloves on, putting something in a syringe into a cup of liquid.	No man and no woman, with no gloves on, not putting nothing into a cup of liquid.	contradiction
+Two men in white hard hats are working on a large object inside a chain-linked fence.	Two men are working in a construction zone.	entailment
+Some motorcyclists make a jump in a dirt bike race.	Some people on motorcycles are racing.	neutral
+A man in a striped polo shirt stands on stage in front of a chalkboard while holding a microphone.	Someone stands on a platform while holding a device next to a board.	neutral
+A kid is using a screwdriver on what looks to be a typewriter.	A kid using a screwdriver on what looks to be a typewriter.	entailment
+a young boy carrying a large soccer ball with a soccer feild in the background	A boy is holding a ball in a field.	neutral
+Two scientists research biology in a lab.	Two scientists are helping biology in a lab.	neutral
+Three young girls are walking together down the sidewalk.	Some people are on the street.	neutral
+People are parasailing on a clear day.	Not people are parasailing.	contradiction
+This man with a white hard hat, and gray vest, and long-sleeve shirt is standing on top of a roof.	A man is sitting on a chair.	contradiction
+This man with a white hard hat, and gray vest, and long-sleeve shirt is standing on top of a roof.	A person is positioned on a surface.	neutral
+A woman wearing a black shirt and holding a red plastic cup sits on a bench in front of a Cigar Company while a man wearing sunglasses and black clothing sits in a wood chair next to her.	One person sits in a forest.	contradiction
+A little girl is licking a dinner plate and getting food all over her face.	A baby is enjoying her toy and starts crying while holding a toy box with a hand full of toys.	contradiction
+Two people, one wearing a blue suit and the other one wearing orange is sitting in an audience.	Two people, one wearing a blue suit and the other one wearing orange is sitting in an audience watching a movie.	entailment
+A group of people working to package the drink.	A group of people working to package.	entailment
+Two kayakers interrupt a race and are about to hit competitors of the race.	Two kayakers interrupt a race and are about to hit competitors of the race.	entailment
+A man in a small bathing suit talks to another man on the beach in front of a beach patrol stand.	No man has a small bathing suit.	contradiction
+A man in purple, white, and yellow on stilts.	A woman in a wheelchair in a parade.	contradiction
+A woman in a black jacket kneeling and pointing.	There is a woman who has on an outfit.	neutral
+A boy wearing a bike helmet, jeans, and a striped shirt and a girl wearing a green shirt and jeans ride bikes with training wheels down a sidewalk.	A girl is learning how to ride a bike.	neutral
+Two identically dressed dancers performing on a dark stage.	Two identically dressed dancers learn to dance on a dark stage.	entailment
+Many people gathered inside talking to one another.	Some people are having conversations.	neutral
+Many people gathered inside talking to one another.	Many people are getting in conversations.	entailment
+A group of teens sit on steps watching a man and woman.	A group of girls sit on steps watching a man and a cat.	contradiction
+A group of teens sit on steps watching a man and woman.	A group of guys sit on steps watching a man and woman.	entailment
+A man in a jacket and necktie sits by some candles	A man sits by some candles.	neutral
+An Indian woman poses for the camera in her bright clothing.	A woman poses for the camera.	neutral
+A woman with a fan near the street.	A man with a sun close to him is on a warm ocean.	contradiction
+Five women are all sitting on the floor together working on a project.	Some women are sitting on the floor together working on a project.	neutral
+A woman wearing a white tank top, sticking out her tounge and pointing to herself.	A person is sticking out their tongue.	neutral
+An Asian man stands in front of an abandoned Chinatown storefront.	A woman walking in the park	neutral
+A man in blue shorts and a t-shirt is slicing tomatoes on a dining table.	A woman in a red long-sleeved shirt unslicing carrots.	contradiction
+A group of people in business casual clothes sitting on blue chairs arranged in a circle around a laptop.	A group of people in business casual clothes sitting on blue chairs arranged in a circle around a laptop. A class is being held inside.	contradiction
+Two dogs, that are tied to the building, patiently wait for their master to return.	A dog is tied while his master reads.	neutral
+Blond lady kisses child on the cheek	A man is slapping the winner of a contest on the head	contradiction
+People walk on a city street near lined parking spaces.	People walk on a city street near a sidewalk. The people are walking on the road.	neutral
+two white dogs running through the grass	Two dogs are sitting inside.	contradiction
+The start of an event in a downtown street is lined by stalls, chairs, and spectators.	The event has ended in the suburbs.	contradiction
+A crowd of boys play cricket in an open sand lot.	The boys are playing a board game.	neutral
+Two ladies are looking at jewelry.	Two ladies are not looking at jewelry. Two ladies are not looking at personal ornaments.	contradiction
+A curly-haired male drummer and a guitarist on stage in the middle of a set.	Drummer and guitarist on stage in the middle of a set.	neutral
+A man is on the ground while a person on a skateboard talks to them.	An individual is speaking with an individual on a skateboard.	neutral
+A happy Woman holding a guitar.	The happy woman holding a guitar.	entailment
+Two girls watch an experiment unfold as one of the girls pours a liquid into a beaker.	Two scientists are assisting in a scientific process as one of the scientists pours a liquid into a beaker. 	neutral
+Two children sitting by the water.	Two children sit by the water.	entailment
+Little town and its people on the streets.	There is a town.	neutral
+Little town and its people on the streets.	There is a small town.	entailment
+A group of women, who look unhappy, are sitting in a kitchen talking.	Some animals are having a brawl.	contradiction
+A group of women, who look unhappy, are sitting in a kitchen talking.	People are talking.	neutral
+Snowboarding practice on a snowy hillside	People are enjoying a sunny day at the beach.	contradiction
+A small girl dancing in a parade wearing bright red and gold clothes.	The girl celebrates July 4th with parents, dancing in a parade wearing bright red and gold clothes.	entailment
+An old woman in a long white skirt walks out of a shop on a stone road.	An old woman in a long white skirt walks out of a shop on a stone road.	entailment
+A woman in a blue coat and dark boots.	The woman in a blue coat and dark boots is a model.	entailment
+A woman with a bright blue satchel measures the blood pressure of an old woman sitting in a chair.	Two doctors are playing.	entailment
+A woman with a bright blue satchel measures the blood pressure of an old woman sitting in a chair.	Two people are not playing doctor.	contradiction
+A woman in sunglasses is brushing her hair back.	A lady is using a comb.	neutral
+Two men in a graveyard, one digging and the other on a cellphone.	Two females are seen in an area with flowers.	contradiction
+A person uses his or her laptop in a kiosk.	A person uses a laptop in a place.	entailment
+The baby in the pink romper is smiling.	The happy baby is happy.	entailment
+A woman is reading a magazine in a reception room.	A woman is sitting down at a doctors office.	entailment
+Two dogs play in the grass.	Two dogs are playing with each other.	entailment
+Two men wearing white, one with a red belt one with a blue belt fight on a blue and red mat with another man refereeing.	Two men in white bathrobes, one with a red belt and one with a blue belt, are relaxing in a sauna while reading.	entailment
+A quarterback hands off the football to a running back.	A running back.	neutral
+Wonderful clear skies and beautiful night.	Clear skies shine on wonderful nights.	entailment
+A person wearing white socks and black shoes is in front of a microphone.	A person wearing white socks and black shoes is not in front of a microphone.	contradiction
+Two men are helping another man cross a stream.	Several people are standing on the ground.	neutral
+Kids chasing a soccer ball.	Kids chasing a soccer ball. Kids sitting.	contradiction
+A police officer on a bicycle rests on a stone pathway in a lightly crowded area.	A person sits on a path in an area.	neutral
+This family needs a rest after their long walk so they stop at the park to feed the pigeons.	They've decided to take a break after their long walk and feed the pigeons at the park.	entailment
+An old man with white hair in a red hat	The old man with white hair in a red hat and is in a red hat.	entailment
+The young lady, in the black and blue shirt, is blow drying and brushing her hair, while another woman watches.	A lady is getting ready to go out as her friend watches.	entailment
+A man sitting in a chair in the middle of a group of people.	A man sits and tells surrounded by people.	entailment
+A woman in a skirt and cowboy hat and a woman in pink pants with an exposed midriff are walking down the street looking at the shops.	A woman in a skirt and cowboy hat and a woman in pink pants with an exposed midriff are walking down the street looking at the shops. Women are walking down the street.	entailment
+Several people on a beach, and a ball.	The team prepare to play a board game.	contradiction
+Several people on a beach, and a ball.	The team prepare to play with the ball.	entailment
+A woman pushes a cleaning machine while walking on a brick pathway beside a minivan yellow cab.	The women is sitting in a chair in a dark room pushing a heavy machine.	contradiction
+A crowd of people, with a man checking his phone facing you.	No woman can see her phone in her hands.	contradiction
+The lady is walking to class in the snow.	A man hurrying to get in the snow.	contradiction
+A woman is surprised to have her picture taken on this fall day outside Spaulding's women's store.	She is infamous.	contradiction
+Two people kissing in a unkempt yard.	A couple enjoys nature in a unkempt yard.	neutral
+Two people kissing in a unkempt yard.	The couple kiss indoors in an immaculate indoor setting.	contradiction
+Several members of a wedding party, including the bride, are walking past a lamp and some park benches.	The people are running at a mall.	contradiction
+The woman in blue shorts and a brown vest has a black dog to the right of her and a dog behind her.	A woman is walking three dogs.	neutral
+A man with red and yellow knee high socks, a polka dot short-sleeved button up shirt, suspenders and brown shorts with a design on them is in front of an audience working a strange contraption in his hands.	A person with red and yellow knee high socks, a polka dot short-sleeved button up shirt, suspenders and brown shorts with a design on them is in a public space holding an unusual object. They are surrounded by people who are captivated by their performance of music.	neutral
+Three people are skating around a curved street while onlookers watch them perform.	Three people are skating around a curved street.	neutral
+The graffiti on the wall is bland and tasteless.	The graffiti on the wall is vibrant and colorful.	entailment
+A woman poses with a small girl in front of a flower bush.	A woman poses with a girlscouts in front of a flower bush.	neutral
+A young man preparing food with diners in the background	The man prepares breakfast.	entailment
+The lady in the multicolored shirt has a necklace on a white object in her hand.	The man in the multicolored shirt has a necklace on a black object that he is dropping.	contradiction
+A group of small children and an older woman look at statues	People ignoring trash.	contradiction
+Red cross workers and emergency personnel stand next to a wrecked black automobile.	A vehicle has been slightly damaged in an accident.	neutral
+A man on stage playing guitar.	Silence is being maintained.	contradiction
+A group of kids standing outside.	There are kids indoors.	contradiction
+A Malaysian contestant is riding a bike on a trainer.	A Malaysian contestant rides a bike down the road.	entailment
+A Malaysian contestant is riding a bike on a trainer.	A person walks down the road.	neutral
+An elderly man, wearing a white hat, is sweeping a parking lot.	A young woman is outside.	contradiction
+A guy on a surfboard.	A man surfing on the ocean with his surfboard.	entailment
+man in t-shirt and shorts doing a backflip on a sand hill.	The man is at the beach.	entailment
+Two women watching a parade.	Four humans watching a parade.	contradiction
+Two women watching a parade.	Two other women watching a parade.	neutral
+An old man smiling at the camera in front of a rocky, barren patch of land.	The old man is smiling.	entailment
+Two surgeons performing a surgery.	Two surgeons performing the surgery.	entailment
+A man dressed in yellow and black is performing a magic trick at a marina.	There are no sailboats in sight while the magician is nowhere to be found.	contradiction
+Children are playing in a fountain.	Children are playing with toy kites near a fountain.	neutral
+A person wears a mask.	A person is uncovering their hand.	contradiction
+Photo is of a female bicyclist(#9) as she rides a red bicycle down a street lined with caution cones.	A female bicyclist rides down a street lined with caution cones.	entailment
+Teacher explains opportunity to an overweight woman in a yellow shirt.	The male teacher is a very mean teacher.	contradiction
+Two children eating food.	Two sisters are eating food together.	neutral
+Two men boxing in a wired cage.	No one will lose the chess game.	contradiction
+Two men boxing in a wired cage.	One of the two men is going to win the boxing match.	entailment
+A little boy wearing a blue hat and coat is standing amongst the pigeons on the street.	A little boy wearing a blue hat and coat is standing amongst the pigeons on the street.	neutral
+A little boy wearing a blue hat and coat is standing amongst the pigeons on the street.	A boy is standing amongst the pigeons on the street.	entailment
+A man with no shirt and a woman in a bikini in the water looking away from the camera.	A man with a shirt and a man in a bikini in the water looking at the camera.	contradiction
+A girl kicks a ball with three girls doing the same in the background.	A girl kicks a ball with three girls kicking balls in the background. Two girls are wearing dresses.	entailment
+A tired-looking young asian couple in casual clothes stand outside on a sidewalk with late-afternoon shadows stretching to their left.	Someone stands on a sidewalk.	neutral
+Some men are finishing a race.	People starting a race.	contradiction
+There are young men playing a game of football, one man has been tackled by another player.	Players play football on the ground.	entailment
+A man in a white shirt walks in the tall grass holding a stick.	A man in a white shirt walks on the ground holding a stick in the grass.	entailment
+a band playing a show for a group on fans.	A musical group is hiding from the fans.	contradiction
+LeBron James passes a basketball while wearing a USA Jersey while 4 opponents stand nearby.	A basketball player involved in a basketball game.	neutral
+Guy in white fuzzy jacket plays guitar while a man in purple button up sings.	Two men talking.	neutral
+A man with a blue baseball cap on is sleeping against a rock.	A man with a blue baseball cap on is awake in a bed.	contradiction
+A multitude of people in swim-wear play in the water in front of a white wall while people behind a row of bicycles look on.	people avoid playing in the water, while others avoid watching.	contradiction
+Three women playing volleyball and two are jumping to attempt to block a shot.	Three people playing volleyball and two are jumping to attempt to block a shot. the people are of varying heights	neutral
+A woman in a beige blazer and sunglasses stares toward a man in a striped t-shirt, who is staring at two smiling women in military attire on a city sidewalk.	A woman in a beige blazer and sunglasses looks away from a man, who ignores two frowning women in military attire on a city sidewalk. Nobody looks at a man who stares at people.	contradiction
+A woman in a beige blazer and sunglasses stares toward a man in a striped t-shirt, who is staring at two smiling women in military attire on a city sidewalk.	A woman in a beige blazer and sunglasses stares toward a man in a striped t-shirt, who is staring at a man.	entailment
+An old man with a mustache is sitting down holding a gun and smiling.	A man is sitting down holding a gun.	neutral
+Two cyclists traverse a green terrain.	Two cyclists traverse the ground outside.	neutral
+A woman is looking out of a window while cleaning a broken flower pot.	A woman looks at a plant on the floor.	neutral
+A woman is looking out of a window while cleaning a broken flower pot.	A woman gazes at a view while tending to a plant.	entailment
+Several men climbing a pole as a crowd watches them.	Several men climb a pole as a crowd watches them. Several men ride bikes.	entailment
+A long-haired musician, playing his guitar in a performance.	A long-haired musician, playing his guitar in a performance and playing his guitar.	entailment
+A boy lying on a floral department store couch with his feet in a girl's lap.	A girl is lying on a couch.	contradiction
+Three people stand in line waiting to buy something to eat at a fair booth selling Martins' Famous Louisiana Sausage's (sic).	Three people wait for their food at a fair booth selling Martins' Famous Louisiana Sausage's (sic).	neutral
+A man in period clothing stands behind a bar.	A person is at a restaurant.	neutral
+Men playing soccer in a field	(Blank)	neutral
+A large group of close together cyclists in the middle of a road race.	A large group of close together cyclists in the middle of a road race. The cyclists are on the team bus.	neutral
+Two women in white lab coats examine a dyed area on a cluster of cells using a projector.	Two women use a guitar.	contradiction
+Two women in white lab coats examine a dyed area on a cluster of cells using a projector.	Some people use some equipment.	neutral
+Two persons are examining a bicycle that is upside down on some asphalt in front of somebody's yard and home.	The person is examining a book.	contradiction
+Two people leaning over a fence looking at the water.	Some people are kayaking in the lake.	neutral
+A man is reading a newspaper on a subway.	A man is reading a newspaper on public transportation.	entailment
+An audacious motorcyclist who is zooming through a racetrack.	There is an astronaut that is flying in space.	contradiction
+The strong male partner in the water dancing team held his female partner above his head while she posed acrobatically over his head.	The man and woman are on the bed.	neutral
+A woman in a white shirt is speaking to an audience made up mostly of children.	The woman is speaking to an audience made up mostly of children.	entailment
+A picture of a sidewalk in a city with people and cars.	People take pictures.	neutral
+A woman is lying in a hospital bed.	The woman lies in the hospital bed.	entailment
+A man in a puffy black coat stands near a tree trunk while a woman in a white scarf stands next to him with her head slightly bowed.	One person is away from no tree.	contradiction
+Two children kick each other while being suspended from the ceiling.	Two children dislike one another while hanging from the ceiling.	entailment
+Young Asian girls rest along a river's edge.	People sit by the water's side.	neutral
+Two kids wearing white robes are practicing martial arts; boy on the left has blond-hair and is blocking a punch thrown by the dark-haired boy on the right.	The boy on the left, who has blond-hair, is blocking a punch thrown by the dark-haired boy on the right.	entailment
+Multiple race cars seems to need tune ups, two yellow car one white and one black	Multiple race cars appear to need a maintenance check, two yellow car one white and one black Their performance is subpar.	neutral
+Multiple race cars seems to need tune ups, two yellow car one white and one black	Bicycles are running at record speeds.	contradiction
+A young man shaves his face, while a girl behind him takes a picture in the mirror.	Two people enjoy shaving bodies	neutral
+A blond-haired woman wearing a blue shirt unwraps a hat.	A blonde-haired man has not a shirt on.	contradiction
+A man standing behind the counter	A man is standing at a cashier in a store.	entailment
+Two motorcyclist racing on an inclined track.	Two people in a pool are swimming on a track.	contradiction
+Three football players are tackling a red uniformed football player during a football game.	Four kids are playing basketball with a red uniformed football player during a football game.	entailment
+A man in a blue checked shirt is walking on the street with his hand in his pocket, and passing an orange cone.	A man is walking.	neutral
+A person wearing a hat and carrying a knapsack walks uphill on a sand dune under a dark, cloudy sky and leaves the only visible footprints behind.	A person wearing a hat and carrying a knapsack walks uphill on a sand dune under a bright, sunny sky and leaves the only visible footprints behind.	entailment
+A man is using a jackhammer to work on a sidewalk.	There is a woman working with a flower.	contradiction
+A man is using a jackhammer to work on a sidewalk.	There is a man walking on the sidewalk.	neutral
+A man with black gloves sits on someone's shoulders to take a picture.	A tall man with black gloves sits on someone's shoulders to take a picture.	contradiction
+A young woman midair gets ready for an intense tennis match, her partner walks behind her.	A woman and her opponent prepare to play a chess game.	contradiction
+A young woman midair gets ready for an intense tennis match, her partner walks behind her.	A woman and they play a sport.	neutral
+A girl jumping into a swimming pool	A person is taking a bath outside.	neutral
+Two female performers are dressed in eccentric clothing, one wearing red and looks un-amused and one wearing blue that looks extremely happy.	Two female performers wearing eccentric clothing.	neutral
+The man wearing blue jeans is fishing.	The man is in a boat fishing.	entailment
+A man wearing blue repairs the clay tiles on a roof using a yellow cement.	The man used the yellow cement to repair the roof from the roof.	entailment
+Girls with a blue bucket is playing and splashing in the ocean water.	A girl is playing at the ocean.	entailment
+A soccer player in white is about to strike the ball in front of a large crowd as an opponent in red tries to make a play on him.	A player using his feet is playing in a game in front of a large crowd.	entailment

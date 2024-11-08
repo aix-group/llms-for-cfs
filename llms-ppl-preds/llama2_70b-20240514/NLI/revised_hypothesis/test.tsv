@@ -1,0 +1,756 @@
+sentence1	sentence2	gold_label	predicted_label	ppl	dist
+A man with a beard is talking on the cellphone and standing next to someone who is lying down on the street.	The man is lying down on the street, and another man stands next to him.	neutral	entailment	12.238351821899414	0.13157894736842105
+A man with a beard is talking on the cellphone and standing next to someone who is lying down on the street.	A man is sitting on the street while another man stands next to him.	contradiction	contradiction	14.489534378051758	0.02631578947368421
+A kid slides down a yellow slide into a swimming pool.	A child is in the pool.	neutral	entailment	31.939756393432617	0.15789473684210525
+A kid slides down a yellow slide into a swimming pool.	The child climbs out of the pool.	contradiction	contradiction	26.508270263671875	0.15789473684210525
+A woman talks on a cellphone while sitting in front of blue railings that are in front of the ocean.	The woman talks while sitting.	neutral	entailment	38.25834655761719	0.27586206896551724
+A woman talks on a cellphone while sitting in front of blue railings that are in front of the ocean.	She has a conversation on her phone indoors.	contradiction	contradiction	38.074405670166016	0.06896551724137931
+A lady, dressed in a costume, is posing with an axe in the middle of the woods.	The lady is holding an axe and standing in the woods.	neutral	entailment	15.91690731048584	0.23529411764705882
+A lady, dressed in a costume, is posing with an axe in the middle of the woods.	A man without an axe is running in a crowded city.	contradiction	contradiction	26.283815383911133	0.23529411764705882
+A man in a boom lift bucket welds.	A man is not working.	contradiction	contradiction	232.72528076171875	0.07142857142857142
+A man in a boom lift bucket welds.	The man is performing a task.	neutral	entailment	203.4727783203125	0.2857142857142857
+Runners in various athletic garb, as well as one individual in a spotted-green dragon costume, run to the right.	No runners do not see a dragon costumed person	contradiction	contradiction	98.42998504638672	0.13333333333333333
+Runners in various athletic garb, as well as one individual in a spotted-green dragon costume, run to the right.	People notice a person in a dragon costume.	neutral	neutral	72.05399322509766	0.23333333333333334
+Rider in ceremonial garb rides white Arabian horse, also wearing ceremonial blankets and tassels.	The rider and horse are not wearing any gear.	contradiction	contradiction	97.62413787841795	0.12
+Rider in ceremonial garb rides white Arabian horse, also wearing ceremonial blankets and tassels.	A rider geared up rides a horse.	neutral	entailment	164.68121337890625	0.28
+"Two uniformed women, wearing jackets saying ""Politie"" on the back, are looking at each other in front of a crowd."	The women are naked in front of a crowd.	contradiction	contradiction	28.46385955810547	0.23333333333333334
+"Two uniformed women, wearing jackets saying ""Politie"" on the back, are looking at each other in front of a crowd."	Women are dressed.	neutral	entailment	48.03303909301758	0.13333333333333333
+A young man standing outside a laundromat.	A man is sitting.	contradiction	contradiction	38.56864547729492	0.07692307692307693
+A young man standing outside a laundromat.	Someone is there.	neutral	entailment	40.263919830322266	0.23076923076923078
+Two people bicycle on a path separated by small mountains.	Two people are walking inside.	contradiction	contradiction	104.20075988769533	0.21052631578947367
+Two people bicycle on a path separated by small mountains.	People are biking in a location.	neutral	entailment	120.85505676269533	0.3157894736842105
+Bubbles surround a statue in the middle of a street.	Some bubbles are near the statue.	neutral	neutral	49.26247787475586	0.2222222222222222
+Bubbles surround a statue in the middle of a street.	There are no bubbles nowhere near the statue.	contradiction	contradiction	41.84075164794922	0.16666666666666666
+A young boy hanging on a pole smiling at the camera.	The young boy is not smiling or The young boy is frowning.	contradiction	contradiction	41.943641662597656	0.3888888888888889
+A young boy hanging on a pole smiling at the camera.	The boy is hanging on a pole.	neutral	entailment	29.987916946411133	0.2777777777777778
+A man sits on a couch beside a colorful cushion with a pencil in his hand.	The man is not holding a pencil.	contradiction	contradiction	21.392053604125977	0.041666666666666664
+Three men in yellow green safety vests sit on a bench yawning, smoking and having a break.	Some individuals are sitting.	neutral	entailment	102.6441879272461	0.16666666666666666
+Three men in yellow green safety vests sit on a bench yawning, smoking and having a break.	There are people standing.	contradiction	contradiction	78.90782928466797	0.041666666666666664
+A man in gray on a rocky cliff, overlooking the mountains.	A man cannot see mountains from where he stands.	contradiction	contradiction	68.99861907958984	0.043478260869565216
+A man in gray on a rocky cliff, overlooking the mountains.	The man sees mountains from where he stands.	neutral	entailment	73.58922576904297	0.13043478260869565
+A hockey player in blue and red guarding the goal.	A person not playing a sport.	contradiction	contradiction	84.98192596435547	0.1875
+A hockey player in blue and red guarding the goal.	The player is participating in a physical activity.	neutral	entailment	65.03334045410156	0.5
+People standing in front of a gray building with a sign that reads' Tickets Available Here'.	The people are standing.	neutral	entailment	94.6294403076172	0.04
+People standing in front of a gray building with a sign that reads' Tickets Available Here'.	The people are sitting inside.	contradiction	contradiction	84.81201934814453	0.08
+A solo shot of a man riding a four wheeler in an atv event.	The man is not entered in a event.	contradiction	contradiction	85.80897521972656	0.043478260869565216
+A solo shot of a man riding a four wheeler in an atv event.	A man is participating in an event.	neutral	entailment	71.84351348876953	0.13043478260869565
+A Skier ski-jumping while two other skiers watch his act.	The skier is performing a stunt.	neutral	entailment	64.15699005126953	0.2777777777777778
+A Skier ski-jumping while two other skiers watch his act.	A skier not preparing a trick.	contradiction	contradiction	126.48240661621094	0.1111111111111111
+Large brown dog walking in shallow water.	The dog is moving around.	neutral	entailment	82.555419921875	0.35714285714285715
+A man in a black shirt and brown pants is jumping in the air performing a karate kick towards a man in a red shirt and black hat.	Two males are involved in cooking.	contradiction	contradiction	36.36804962158203	0.05405405405405406
+A man in a black shirt and brown pants is jumping in the air performing a karate kick towards a man in a red shirt and black hat.	People are involved in physical activities.	neutral	entailment	37.22930908203125	0.10810810810810811
+A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite.	A person is consuming a marshmallow.	neutral	entailment	95.76143646240234	0.06666666666666667
+A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite.	A woman is eating a sandwich.	contradiction	contradiction	94.69055938720705	0.06666666666666667
+A man wearing a red vest is walking past a black and green fence.	The man is wearing something.	neutral	entailment	37.16324234008789	0.13636363636363635
+A man wearing a red vest is walking past a black and green fence.	A woman is not wearing a vest.	contradiction	contradiction	27.51872062683105	0.09090909090909091
+A young girl with water wings leaps into a crowded pool	Some people are in a pool.	neutral	entailment	130.72296142578125	0.16666666666666666
+A young girl with water wings leaps into a crowded pool	There are no people in no pool.	contradiction	contradiction	115.87433624267578	0.1111111111111111
+A man sitting on steps with a child as a bystander walks by.	The man and child on the steps, a bystander passed by.	neutral	entailment	31.19403076171875	0.2692307692307692
+A man sitting on steps with a child as a bystander walks by.	A man and a child standing on a ladder saw an acrobat.	contradiction	contradiction	43.820743560791016	0.19230769230769232
+The girl wearing a brown jacket whilst walking in snow.	A girl is moving outside.	neutral	entailment	161.73904418945312	0.11764705882352941
+The girl wearing a brown jacket whilst walking in snow.	The girl is sitting inside.	contradiction	contradiction	121.56237030029295	0.11764705882352941
+A young woman wearing a yellow shirt and off-white shorts is reading a book while sitting on a park bench.	A woman playing a musical instrument while sitting on a bench.	contradiction	contradiction	17.4897403717041	0.08823529411764706
+A young woman wearing a yellow shirt and off-white shorts is reading a book while sitting on a park bench.	The woman is seated and engaged in an activity.	neutral	entailment	21.496225357055664	0.2647058823529412
+An Asian woman in a purple shirt preparing a bowl of food for the younger Asian boy sitting near buy, while an Asian man eats a roll and prepares to take some food up with his chopsticks.	A man is eating food with his chopsticks.	contradiction	entailment	50.505977630615234	0.10416666666666667
+An Asian woman in a purple shirt preparing a bowl of food for the younger Asian boy sitting near buy, while an Asian man eats a roll and prepares to take some food up with his chopsticks.	The woman is handling food for someone.	neutral	entailment	74.35201263427734	0.08333333333333333
+A woman and child are on a boat and the woman is looking out into the ocean through a scope.	The woman is observing in the distance.	neutral	entailment	30.98501968383789	0.25
+A woman and child are on a boat and the woman is looking out into the ocean through a scope.	A lady is looking at a tree in a desert.	contradiction	contradiction	33.7454833984375	0.15625
+An Indian woman stands in an outdoor marketplace.	A person is in a public place at a market.	neutral	entailment	44.843109130859375	0.35294117647058826
+two teen boys in school clothes are walking with something in a garbage bag.	Two individuals are moving in the same direction, holding an item.	neutral	entailment	67.66700744628906	0.4166666666666667
+two teen boys in school clothes are walking with something in a garbage bag.	Two girls are walking in opposite directions not carrying anything.	contradiction	contradiction	66.28268432617188	0.2916666666666667
+Two children, both wearing tan coats, are embracing one another.	Two adults are fighting.	contradiction	contradiction	56.71683883666992	0.1111111111111111
+A group of consumers walking through a public market to purchase vegetables with the background of the busy store just behind them.	People are buying in a market.	neutral	entailment	85.90363311767578	0.1875
+A group of consumers walking through a public market to purchase vegetables with the background of the busy store just behind them.	Shoppers refusing to purchase vegetables at an empty parking lot.	contradiction	contradiction	76.37884521484375	0.21875
+Several street vehicles pass by a traditional architecture style of Thailand.	Some vehicles are moving along a road in a country.	neutral	neutral	135.96453857421875	0.3333333333333333
+Several street vehicles pass by a traditional architecture style of Thailand.	Animals are flying in the air in Antarctica.	contradiction	contradiction	234.7562255859375	0.2857142857142857
+A man wearing a shite short-sleeved shirt kisses a woman wearing a light pink jacket while standing on a public street.	The man is interacting with a woman.	neutral	entailment	24.872791290283203	0.13333333333333333
+A man wearing a shite short-sleeved shirt kisses a woman wearing a light pink jacket while standing on a public street.	A woman is hitting a woman.	contradiction	contradiction	31.420196533203125	0.1
+A young woman is wearing a paper crown at an outdoor event.	The woman is indoors.	contradiction	contradiction	65.96467590332031	0.17647058823529413
+A young woman is wearing a paper crown at an outdoor event.	A woman is in a public place.	neutral	entailment	37.74489974975586	0.35294117647058826
+Two women look at a table with assorted items on it in some sort of market that others are currently browsing.	Two men are not looking at a table with assorted items on it in some sort of market that others are currently browsing.	contradiction	contradiction	13.82113265991211	0.8461538461538461
+Two women look at a table with assorted items on it in some sort of market that others are currently browsing.	People are examining.	neutral	entailment	80.21926879882812	0.15384615384615385
+A fat woman wearing faint blue top is blowing soap bubble.	A thin woman is wearing pants.	contradiction	contradiction	172.4331512451172	0.15
+A fat woman wearing faint blue top is blowing soap bubble.	The woman is wearing something.	neutral	entailment	185.0692138671875	0.2
+A man in a suit driving a horse-drawn buggy down a stone street.	The man is riding a horse.	contradiction	entailment	36.1552734375	0.08695652173913043
+A man in a suit driving a horse-drawn buggy down a stone street.	A person is operating a vehicle.	neutral	entailment	64.90266418457031	0.17391304347826086
+Expert snowboard is trying a new trick.	The person is skiing.	contradiction	contradiction	112.54659271240234	0.07692307692307693
+Expert snowboard is trying a new trick.	A person is engaging in snowboarding activities.	neutral	entailment	83.9060287475586	0.3076923076923077
+An Asian lady is holding a cup and sitting in front of a table covered in different foods.	There is a table next to the woman.	neutral	entailment	30.93280601501465	0.07142857142857142
+An Asian lady is holding a cup and sitting in front of a table covered in different foods.	There is a chair next to a lady.	contradiction	entailment	40.18499374389648	0.03571428571428571
+An Asian young woman wearing a white shirt and black pants is holding a pink purse.	A woman is carrying a bag.	neutral	entailment	29.193363189697266	0.125
+An Asian young woman wearing a white shirt and black pants is holding a pink purse.	The woman is not holding a purse.	contradiction	contradiction	23.65749168395996	0.041666666666666664
+A woman wearing a red hat and red bandanna followed by a man in a red bandanna.	The people are not wearing bandanas.	contradiction	contradiction	26.77517890930176	0.041666666666666664
+A woman wearing a red hat and red bandanna followed by a man in a red bandanna.	People are wearing something.	neutral	entailment	43.17143249511719	0.125
+A white man taking a photo in front of water.	The man is near water.	neutral	entailment	51.96126937866211	0.21052631578947367
+A white man taking a photo in front of water.	A woman is behind fire.	contradiction	contradiction	75.94457244873047	0.2631578947368421
+A man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence.	A person is performing an action.	neutral	entailment	66.58365631103516	0.21739130434782608
+A man in a blue jacket holding a handsaw sawing a pipe on top of a wood fence.	Someone is not sawing.	contradiction	contradiction	68.0806884765625	0.043478260869565216
+A man touching a hanging strand of lamps.	A man is pushing away a book.	contradiction	contradiction	182.1493377685547	0.3
+A man touching a hanging strand of lamps.	The man is touching the lamps.	neutral	entailment	146.75616455078125	0.35
+Dog running with a purple toy in the snowy field.	A dog is not running.	contradiction	contradiction	118.05533599853516	0.0625
+Dog running with a purple toy in the snowy field.	The dog is moving.	neutral	entailment	126.68962097167967	0.125
+Two bearded men sit side by side.	Two people are seated.	neutral	entailment	41.84164810180664	0.21428571428571427
+Two bearded men sit side by side.	Two women are standing up.	contradiction	contradiction	35.685302734375	0.21428571428571427
+Two men in karate gear using fighting sticks.	Two men not in karate gear not sparring with no sticks.	contradiction	contradiction	78.5089111328125	0.5333333333333333
+Two men in karate gear using fighting sticks.	People are using fighting sticks.	neutral	entailment	124.00123596191406	0.4
+Man and woman rowing on surfboards third rower in distance.	People are using surfboards.	neutral	entailment	189.1056365966797	0.1875
+Man and woman rowing on surfboards third rower in distance.	Singles sinking on stones.	contradiction	contradiction	444.3707275390625	0.1875
+A person sweeping stairs in a park.	The person is outside.	neutral	entailment	111.7004623413086	0.16666666666666666
+A person sweeping stairs in a park.	A person inside.	contradiction	contradiction	165.6504669189453	0.08333333333333333
+Four young men stare up at a basketball hoop with no net, in an outdoor, urban basketball court.	Some men are looking at a hoop.	neutral	entailment	68.20793151855469	0.16129032258064516
+Four young men stare up at a basketball hoop with no net, in an outdoor, urban basketball court.	Four young men looking down at a basketball hoop.	contradiction	contradiction	42.75204849243164	0.03225806451612903
+A solo cyclist is riding down a windy road.	A cyclist stays up a road.	contradiction	contradiction	88.77312469482422	0.1875
+A solo cyclist is riding down a windy road.	The cyclist is riding.	neutral	entailment	50.36670684814453	0.3125
+A person standing next to an old dark building.	The person is standing adjacent to a structure.	neutral	entailment	45.97760009765625	0.29411764705882354
+Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.	Figure skaters are sitting on a stage.	contradiction	contradiction	21.528194427490234	0.15789473684210525
+A man is playing with his skateboard on a street.	A man is inside.	contradiction	contradiction	31.463285446166992	0.0625
+A man is playing with his skateboard on a street.	The man is in a public place.	neutral	entailment	22.037914276123047	0.3125
+A guy on Rollerblades, sliding across a rail.	The non-skateboarder does not ride the rail.	contradiction	contradiction	58.67019271850586	0.3125
+A guy on Rollerblades, sliding across a rail.	A person interacts with the rail.	neutral	entailment	109.4160385131836	0.25
+The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face.	People are eating.	neutral	entailment	46.04644012451172	0.1388888888888889
+The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face.	A non-human entity is not consuming food.	contradiction	contradiction	52.728965759277344	0.1388888888888889
+A woman is in the middle of hitting a tennis ball.	A woman is playing soccer.	contradiction	contradiction	28.023021697998047	0.05555555555555555
+A woman is in the middle of hitting a tennis ball.	The woman is hitting a tennis ball.	neutral	entailment	16.43011474609375	0.2222222222222222
+There are two people walking in the sand.	People are walking on the sand.	neutral	entailment	25.29767417907715	0.3125
+There are two people walking in the sand.	Not two people swim across the beach.	contradiction	contradiction	41.414344787597656	0.1875
+A man sitting and a woman laying in his lap kissing each other.	A man standing and a woman sitting in his lap.	contradiction	contradiction	15.356623649597168	0.125
+A man sitting and a woman laying in his lap kissing each other.	A man, a woman.	neutral	entailment	31.56491470336914	0.25
+An elderly woman with a tan nun uniform on and glasses is taking a picture with her camera.	A man is in a police uniform.	contradiction	contradiction	61.59943008422852	0.10714285714285714
+An elderly woman with a tan nun uniform on and glasses is taking a picture with her camera.	The woman is taking a picture with her camera.	neutral	entailment	33.56824493408203	0.21428571428571427
+Four women standing around a yellow table are looking at laptops.	A group of women looking at books together.	contradiction	contradiction	66.2935562133789	0.047619047619047616
+Four women standing around a yellow table are looking at laptops.	Some women are using electronic devices.	neutral	entailment	92.94134521484376	0.3333333333333333
+Artist on street corner selling his artwork.	Someone is giving away paintings.	contradiction	neutral	130.484130859375	0.15384615384615385
+Artist on street corner selling his artwork.	People are selling artwork.	neutral	entailment	97.82665252685548	0.23076923076923078
+A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.	The boy is wearing a green shirt and shorts.	neutral	entailment	43.61387634277344	0.22857142857142856
+A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.	A girl human dressed for winter in a red shirt and black pants extends food to a reindeer in a petting zoo.	contradiction	contradiction	21.737483978271484	0.45714285714285713
+A man in a brown shirt and blue shorts walking in Droney Park.	A man sitting in Droney Park.	contradiction	contradiction	39.361366271972656	0.047619047619047616
+A man in a brown shirt and blue shorts walking in Droney Park.	The man is in Droney Park.	neutral	entailment	45.567481994628906	0.09523809523809523
+A young man blew up balloons to craft into animals for the seven excited children that looked on.	The kids are observing the person inflating balloons.	neutral	entailment	194.67042541503903	0.21428571428571427
+A young man blew up balloons to craft into animals for the seven excited children that looked on.	The children are not watching the man blow up balloons.	contradiction	contradiction	132.3959503173828	0.07142857142857142
+Three women sit together near woven walls.	Three women sit together.	neutral	entailment	185.8583984375	0.0
+Three women sit together near woven walls.	Three men stand apart.	contradiction	contradiction	193.35516357421875	0.23076923076923078
+A young gymnast looks back at the audience, trying to catch a glimpse of her proud parents before starting her performance.	The gymnast looks around, trying to spot people in the audience.	neutral	entailment	25.246427536010746	0.34375
+A fireman searching for something using a flashlight.	A fireman is in the light.	contradiction	entailment	92.7332763671875	0.0625
+A fireman searching for something using a flashlight.	The fireman is using a flashlight.	neutral	entailment	36.39562225341797	0.25
+A male with a prosthetic leg diving for a volleyball.	The male has no prosthetic legs.	contradiction	contradiction	45.07784271240234	0.2
+A man sits at a table in a room.	The man is seated.	neutral	entailment	21.55312156677246	0.21428571428571427
+A man sits at a table in a room.	A man stands.	contradiction	contradiction	24.60354804992676	0.07142857142857142
+Violin soloists take the stage during the orchestra's opening show at the theater.	People are playing piano on stage.	contradiction	contradiction	63.67061996459961	0.045454545454545456
+Violin soloists take the stage during the orchestra's opening show at the theater.	Some people are performing.	neutral	entailment	79.5747299194336	0.2727272727272727
+Women in costume stand on a stage.	Men are backstage.	contradiction	contradiction	92.75698852539062	0.2857142857142857
+Women in costume stand on a stage.	Women are standing.	neutral	entailment	89.45760345458984	0.2857142857142857
+A race car, numbered 104 is rounding a bend as two people watch and take pictures.	Some people are watching.	neutral	entailment	161.34527587890625	0.17391304347826086
+A race car, numbered 104 is rounding a bend as two people watch and take pictures.	People are not taking pictures.	contradiction	contradiction	147.65701293945312	0.043478260869565216
+Two young boys are playing in a fountain in a city plaza.	Children are playing in water.	neutral	entailment	43.151981353759766	0.23809523809523808
+Two young ladies walking down the street together.	There are two people in this picture, and they are in a public place.	neutral	entailment	18.931344985961918	0.21739130434782608
+Two young ladies walking down the street together.	There are two men in this picture, and they are both inside.	contradiction	contradiction	22.710243225097656	0.08695652173913043
+One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.	A person is holding a camera.	neutral	entailment	29.791601181030277	0.1388888888888889
+One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.	A child playing a musical instrument.	contradiction	contradiction	28.93240165710449	0.1388888888888889
+A woman is leaning down while talking to her phone.	The woman is holding a phone.	neutral	entailment	27.14296531677246	0.17647058823529413
+A woman is leaning down while talking to her phone.	A woman is not using a phone.	contradiction	contradiction	39.3052978515625	0.11764705882352941
+A skier goes down a hill with a mountain as a backdrop.	A skier climbing up a hill.	contradiction	contradiction	29.903512954711918	0.1
+A skier goes down a hill with a mountain as a backdrop.	The skier is skiing.	neutral	entailment	34.719947814941406	0.25
+Women of India performing with blue streamers, in beautiful blue costumes.	Men perform separately in plain costumes.	contradiction	contradiction	223.8094024658203	0.25
+Women of India performing with blue streamers, in beautiful blue costumes.	Women perform in costumes.	neutral	entailment	188.5107269287109	0.25
+A gymnast is seen defying gravity as she performs an impressive move several feet above the parallel bars.	A non-athlete is seen sitting on the parallel bars.	contradiction	contradiction	34.628135681152344	0.5454545454545454
+A gymnast is seen defying gravity as she performs an impressive move several feet above the parallel bars.	Gymnasts perform.	neutral	entailment	63.73836135864258	0.13636363636363635
+Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.	The players are not playing a sport.	contradiction	contradiction	52.01064682006836	0.037037037037037035
+Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.	They are engaged in an activity.	neutral	entailment	65.3419418334961	0.2222222222222222
+a young girl looking down through some leaves from atop a tree.	A person is in a natural setting.	neutral	entailment	73.15023040771484	0.2631578947368421
+a young girl looking down through some leaves from atop a tree.	There is a boy indoors.	contradiction	contradiction	77.96171569824219	0.10526315789473684
+A man holding a baby who is petting a pony.	A man is near a pony.	neutral	entailment	52.068878173828125	0.19047619047619047
+A man holding a baby who is petting a pony.	A woman without a baby is fighting a pony.	contradiction	contradiction	39.01521301269531	0.14285714285714285
+Man in blue shirt yells and points off-camera while a man in a blue shirt and baseball cap watches.	A man is not yelling.	contradiction	contradiction	45.73345947265625	0.037037037037037035
+Man in blue shirt yells and points off-camera while a man in a blue shirt and baseball cap watches.	The man is making noise.	neutral	entailment	41.94026565551758	0.1111111111111111
+A small child is riding in a red wagon.	An adult is in a car.	contradiction	contradiction	34.368988037109375	0.17647058823529413
+A small child is riding in a red wagon.	The child is riding in a wagon.	neutral	entailment	23.30071449279785	0.17647058823529413
+A man in renaissance clothing is sitting on a brick wall.	A man is wearing a costume.	neutral	entailment	45.56002807617188	0.23529411764705882
+A man in renaissance clothing is sitting on a brick wall.	The man is not in costume.	contradiction	contradiction	42.90188980102539	0.11764705882352941
+a big black dog jumps in the air to catch the tennis ball in his mouth.	A dog is sitting.	contradiction	contradiction	53.491241455078125	0.045454545454545456
+a big black dog jumps in the air to catch the tennis ball in his mouth.	Dogs are moving.	neutral	entailment	64.77130126953125	0.18181818181818182
+Two men are boxing in fighting arena.	Men are engaging in boxing.	neutral	entailment	215.3656768798828	0.3076923076923077
+Two men are boxing in fighting arena.	Two men are dancing.	contradiction	contradiction	166.90980529785156	0.15384615384615385
+A wall hung with multicolored crosses is visible behind the group of young men as they converse.	People are conversing.	neutral	entailment	46.90171051025391	0.18181818181818182
+A wall hung with multicolored crosses is visible behind the group of young men as they converse.	Old women are talking.	contradiction	contradiction	62.83615112304688	0.13636363636363635
+Red-haired female answers questions while sitting at a table for craftzine.	She refuses to answer questions while standing.	contradiction	contradiction	95.66655731201172	0.30434782608695654
+Red-haired female answers questions while sitting at a table for craftzine.	The woman is sitting down.	neutral	entailment	124.79335021972656	0.30434782608695654
+Two men in costumes with fake carrot noses, top hats, sunglasses and white fur coats that contain white electrical lights.	Some people are wearing costumes.	neutral	entailment	131.52841186523438	0.19230769230769232
+Two men in costumes with fake carrot noses, top hats, sunglasses and white fur coats that contain white electrical lights.	Animals in natural fur coats.	contradiction	entailment	157.4129638671875	0.19230769230769232
+A man has wrecked his racing bike in the dirt with five spectators behind a rope.	The man has caused damage.	neutral	entailment	113.2298355102539	0.13043478260869565
+A man has wrecked his racing bike in the dirt with five spectators behind a rope.	A man has undamaged something.	contradiction	entailment	221.28749084472656	0.043478260869565216
+A city street with market vendors and children being pushed in strollers with a large cathedral in the background.	The strollers are stationary.	contradiction	contradiction	125.32283020019533	0.04
+A city street with market vendors and children being pushed in strollers with a large cathedral in the background.	Some strollers are parked.	neutral	contradiction	118.1278076171875	0.08
+Two men working on farm equipment that is being pulled by two horses.	The men are relaxing on a beach.	contradiction	contradiction	60.644508361816406	0.13636363636363635
+Two men working on farm equipment that is being pulled by two horses.	Men are working on agricultural equipment.	neutral	entailment	69.08470916748047	0.18181818181818182
+Woman running in a park while listening to music.	A woman sitting in a park.	contradiction	contradiction	51.18449020385742	0.058823529411764705
+Woman running in a park while listening to music.	The woman is running in a park.	neutral	neutral	36.19329452514648	0.17647058823529413
+A man in jeans and a brown shirt jumps high in the air in a living room that has a fireplace and wooden floor.	A girl in blue sits down in a pool with a concrete floor.	contradiction	contradiction	28.61710548400879	0.23076923076923078
+A man in jeans and a brown shirt jumps high in the air in a living room that has a fireplace and wooden floor.	A person wearing brown moves upward inside a space with a wooden surface.	neutral	entailment	47.23637771606445	0.2564102564102564
+The blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture.	Someone is taking a photo.	neutral	entailment	36.68498992919922	0.16666666666666666
+The blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture.	A man not covered in paint does not take a photo.	contradiction	contradiction	35.032020568847656	0.1111111111111111
+One woman with jeans, gray shirt and sandals; with girl in all pink watching a white ball float in midair.	A shirt is a color.	neutral	entailment	142.61419677734375	0.10714285714285714
+One woman with jeans, gray shirt and sandals; with girl in all pink watching a white ball float in midair.	The shirt is not gray.	contradiction	contradiction	142.3939666748047	0.03571428571428571
+3 people are shopping in a market.	People are in a market.	neutral	entailment	66.15426635742188	0.2
+3 people are shopping in a market.	There are no people not at a market.	contradiction	contradiction	75.18802642822266	0.13333333333333333
+A man is working in an art studio and is surrounded by art supplies.	A man is not working on art.	contradiction	contradiction	25.11002922058105	0.045454545454545456
+A man is working in an art studio and is surrounded by art supplies.	The man is involved in art.	neutral	entailment	24.28670310974121	0.13636363636363635
+The man in black is flying off the full in front of a red fence.	The man is flying over the fence.	contradiction	entailment	45.78514099121094	0.08333333333333333
+The man in black is flying off the full in front of a red fence.	A man is near the fence.	neutral	entailment	58.05522155761719	0.125
+People are hiking up a mountain with no greenery.	The mountain is covered in greenery.	contradiction	contradiction	34.04977035522461	0.2
+People are hiking up a mountain with no greenery.	The people are climbing.	neutral	entailment	60.39684677124024	0.2
+An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.	A woman has a jacket.	neutral	entailment	34.64057922363281	0.08823529411764706
+An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.	A young woman has a leather jacket.	contradiction	contradiction	31.048490524291992	0.08823529411764706
+A patient is being worked on by doctors and nurses.	A person is in a medical setting.	neutral	entailment	39.5187873840332	0.35294117647058826
+A young male wearing a white shirt with a character outlined very darkly.	The young male is wearing a white shirt.	neutral	entailment	43.449310302734375	0.13636363636363635
+A young male wearing a white shirt with a character outlined very darkly.	An elderly female in a black shirt.	contradiction	contradiction	58.54368591308594	0.18181818181818182
+A man wearing a white shirt and a blue jeans reading a newspaper while standing	A man is not reading a newspaper.	contradiction	contradiction	73.10984802246094	0.045454545454545456
+A man wearing a white shirt and a blue jeans reading a newspaper while standing	The man is holding a newspaper.	neutral	entailment	66.64207458496094	0.09090909090909091
+A man and woman setup a camera.	People are using a device.	neutral	entailment	149.0407257080078	0.3076923076923077
+two dogs run across the woods.	Dogs run in the woods.	neutral	entailment	68.49824523925781	0.26666666666666666
+two dogs run across the woods.	The cats run around in the desert.	contradiction	contradiction	80.1082992553711	0.13333333333333333
+A man is kayaking in rough waters.	A person is on the water.	neutral	entailment	42.99506378173828	0.42857142857142855
+A man is kayaking in rough waters.	The man is on land.	contradiction	contradiction	57.2943229675293	0.21428571428571427
+A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.	A person is far from no coconuts.	contradiction	contradiction	56.94164276123047	0.12903225806451613
+A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.	The person is standing coconuts.	neutral	entailment	50.29313659667969	0.16129032258064516
+Several men at a bar watch a sports game on the television.	People are gathered.	neutral	entailment	75.20879364013672	0.3181818181818182
+Several men at a bar watch a sports game on the television.	Some men are not watching TV at a bar.	contradiction	contradiction	45.08027267456055	0.045454545454545456
+A lit girl splashes around in natural water.	The girl plays in water.	neutral	entailment	122.61211395263672	0.13333333333333333
+A lit girl splashes around in natural water.	A girl sinks in water.	contradiction	entailment	118.35570526123048	0.06666666666666667
+A boy is riding down the road between two cows.	A girl, a road, and two cows.	contradiction	contradiction	49.710391998291016	0.1
+A boy is riding down the road between two cows.	The boy is riding down the road between the cows.	neutral	entailment	27.730262756347656	0.35
+A group of attentive students are paying attention to a college lecture.	Some students are skipping a class.	contradiction	contradiction	43.50576019287109	0.05
+A group of attentive students are paying attention to a college lecture.	Students are in a class.	neutral	entailment	43.86901473999024	0.15
+A man laughing while at a restaurant.	A man crying.	contradiction	contradiction	62.08635330200195	0.08333333333333333
+A man laughing while at a restaurant.	The man is smiling.	neutral	entailment	50.923561096191406	0.25
+A woman wearing a yellow tank top and white pants looking into a window on a city street.	A man wearing a suit and tie looks through a wall.	contradiction	contradiction	19.88083267211914	0.1875
+A woman wearing a yellow tank top and white pants looking into a window on a city street.	The woman dressed in clothing looks in a direction.	neutral	entailment	41.39316177368164	0.3125
+A crowd of people in a stadium decked out in white, yellow and green cheer and clap for the team below.	An empty stadium is silent.	contradiction	contradiction	36.30052185058594	0.18518518518518517
+A crowd of people in a stadium decked out in white, yellow and green cheer and clap for the team below.	A group of people are applauding.	neutral	entailment	27.716705322265625	0.25925925925925924
+Two sweet young girls on ice skates, hands up and holding on to each other get ready to begin their performance on the ice.	Two people are standing together.	neutral	entailment	51.1280403137207	0.125
+Two sweet young girls on ice skates, hands up and holding on to each other get ready to begin their performance on the ice.	Two males pushing each other.	contradiction	contradiction	54.99625396728516	0.0625
+A man in a short Mohawk and beard.	A man with a short Mohawk and beard sits inside.	contradiction	neutral	46.59040451049805	0.1
+A man in a short Mohawk and beard.	The man is present.	neutral	entailment	125.15961456298828	0.45
+A woman in a pink top is holding a glass bottle in one hand and a Stitch doll in the other.	The bottom is pink	contradiction	entailment	23.496994018554688	0.038461538461538464
+A woman in a pink top is holding a glass bottle in one hand and a Stitch doll in the other.	A top is a color.	neutral	entailment	30.836559295654297	0.15384615384615385
+A girl in a black skirt and blue dress is watering flowers.	The girl is pouring water on the ground.	contradiction	contradiction	33.30881118774414	0.22727272727272727
+A girl in a black skirt and blue dress is watering flowers.	A person is watering plants.	neutral	entailment	55.95939254760742	0.3181818181818182
+A pro-baseball pitcher sends a curve ball to his opponent while many fans relax and enjoy the game.	A pitcher is playing chess at a library.	contradiction	contradiction	54.71370697021485	0.10344827586206896
+A pro-baseball pitcher sends a curve ball to his opponent while many fans relax and enjoy the game.	A pitcher is playing a game at a field.	neutral	entailment	40.34291458129883	0.13793103448275862
+One confused man is standing and staring off into the distance in front of some ticket collecting machines.	The man is not confused.	contradiction	contradiction	50.40626525878906	0.041666666666666664
+One confused man is standing and staring off into the distance in front of some ticket collecting machines.	A man is standing and staring off into the distance in front of some ticket collecting machines.	neutral	entailment	12.550372123718262	0.625
+Several men in black t-shirts and caps are using with metal rods to smash food that's lying on a round table with a hole in the center.	People are utilizing tools.	neutral	entailment	72.7729263305664	0.14285714285714285
+Several men in black t-shirts and caps are using with metal rods to smash food that's lying on a round table with a hole in the center.	Women are using pillows.	contradiction	contradiction	55.693321228027344	0.11428571428571428
+A group of people sitting and knitting.	Some people are sitting down.	neutral	entailment	71.66754150390625	0.25
+A group of people sitting and knitting.	People are standing.	contradiction	contradiction	108.26384735107422	0.08333333333333333
+An older man sifts water through his fingers as a young toddler watches from inside the water.	The man is in the vicinity of a toddler.	neutral	entailment	50.48554992675781	0.25
+An older man sifts water through his fingers as a young toddler watches from inside the water.	A woman is far from an adult.	contradiction	contradiction	67.63168334960938	0.25
+While traveling, a woman in a black jacket is resting on the shoulder of a man in a black jacket.	A woman struggles on the shoulder of a woman.	contradiction	contradiction	18.98933982849121	0.0967741935483871
+While traveling, a woman in a black jacket is resting on the shoulder of a man in a black jacket.	The woman is resting on his shoulder.	neutral	entailment	15.80448055267334	0.22580645161290322
+A small, pale bird bends down to examine a crumb.	The bird is in the air.	contradiction	contradiction	41.27132415771485	0.10526315789473684
+A small, pale bird bends down to examine a crumb.	A bird is near the crumb.	neutral	entailment	47.79868698120117	0.15789473684210525
+A man riding a motorcycle on a dirt road passing several junk or abandoned cars on the side of the road.	A man is sitting on a couch.	contradiction	contradiction	30.502153396606445	0.10344827586206896
+A man riding a motorcycle on a dirt road passing several junk or abandoned cars on the side of the road.	The man is driving.	neutral	entailment	26.791860580444336	0.13793103448275862
+A skier is heading into a grove of trees.	There is no snow on the ground in this picture.	contradiction	contradiction	26.55558013916016	0.05
+A skier is heading into a grove of trees.	A winter scene is depicted in the picture.	neutral	entailment	56.33146667480469	0.35
+Two women bend over to touch a small kangaroo.	Two women are kicking a kangaroo.	contradiction	contradiction	33.856910705566406	0.125
+Two women bend over to touch a small kangaroo.	The women are interacting with a kangaroo.	neutral	entailment	33.25153732299805	0.25
+A man with thinning hair looking into glasses through glasses.	A man with thinning hair wearing a blue shirt.	neutral	neutral	28.30272102355957	0.23529411764705882
+A man with thinning hair looking into glasses through glasses.	A man with thick hair.	contradiction	contradiction	44.71094512939453	0.058823529411764705
+A kid dressed in a long-sleeve shirt with a jersey numbered 11 is passing a bar to a boy in a jersey numbered 12 during a relay race.	A group of people race to finish first in a location.	neutral	neutral	54.75969696044922	0.14893617021276595
+A kid dressed in a long-sleeve shirt with a jersey numbered 11 is passing a bar to a boy in a jersey numbered 12 during a relay race.	A team of seniors race to finish first in a solo marathon on a mountain.	contradiction	contradiction	60.13359069824219	0.0851063829787234
+A man is riding a bicycle in the street.	The bicycle is being used.	neutral	entailment	24.925905227661133	0.2
+A man is riding a bicycle in the street.	A bicycle is not being ridden.	contradiction	contradiction	20.68671989440918	0.2
+A woman with a pink purse walks down a crowded sidewalk.	The woman walks in a crowd.	neutral	entailment	41.91918182373047	0.16666666666666666
+A woman with a pink purse walks down a crowded sidewalk.	A woman runs through an empty street.	contradiction	contradiction	46.485633850097656	0.2777777777777778
+A large number of people are watching men dressed in kilts, one of whom has thrown a long pole.	People ignore women dressed in jeans.	contradiction	contradiction	70.59561157226562	0.23076923076923078
+A large number of people are watching men dressed in kilts, one of whom has thrown a long pole.	People watch people in kilts as someone throws a pole.	neutral	entailment	43.77920913696289	0.3076923076923077
+Two babies, one in red, asleep in their highchairs.	Babies are awake.	contradiction	contradiction	69.8211441040039	0.2
+Two babies, one in red, asleep in their highchairs.	The babies are in a state of sleep.	neutral	entailment	50.95454406738281	0.4666666666666667
+Some folks pick out the food they want at a party.	People are looking at food.	neutral	entailment	65.56813049316406	0.3333333333333333
+Some folks pick out the food they want at a party.	Not at the party are not eating.	contradiction	contradiction	97.27396392822266	0.3333333333333333
+A small dog runs to catch a ball.	A big dog runs away from a stick.	contradiction	contradiction	28.44463348388672	0.3125
+A small dog runs to catch a ball.	A dog plays with a ball.	neutral	entailment	32.83428192138672	0.1875
+A white and black spotted dog is running through a grassy area.	A cat is indoors.	contradiction	contradiction	56.79488754272461	0.1111111111111111
+A white and black spotted dog is running through a grassy area.	The dog is in a field.	neutral	entailment	32.14117431640625	0.2222222222222222
+The black woman is laying out literature.	A white woman is burning firewood.	contradiction	contradiction	96.99456787109376	0.25
+The black woman is laying out literature.	The woman is dealing with papers.	neutral	entailment	108.74983978271484	0.3125
+Island native fishermen reeling in their nets after a long day's work.	People are engaging in an activity.	neutral	entailment	151.53395080566406	0.30434782608695654
+Island native fishermen reeling in their nets after a long day's work.	The men are starting their day of work.	contradiction	contradiction	104.28376770019533	0.043478260869565216
+a dog jumps over the pole.	Cat is sitting on a chair.	contradiction	contradiction	72.36428833007812	0.38461538461538464
+a dog jumps over the pole.	The dog is jumping over a pole.	neutral	entailment	33.038902282714844	0.15384615384615385
+A man running in a race passes by spectators.	The man is moving near people nearby.	neutral	entailment	113.6269989013672	0.3
+A man running in a race passes by spectators.	A man is not running by people who are not watching.	contradiction	contradiction	62.03084182739258	0.1
+A man talks to two guards as he holds a drink.	The man holding a drink is talking to two guards in the prison cafeteria.	entailment	neutral	27.403980255126957	0.16666666666666666
+A man talks to two guards as he holds a drink.	The man is talking to one guard in a restaurant.	contradiction	contradiction	28.808673858642575	0.25
+A woman with a black purse and a red coat is sitting on a pillar of concrete.	A woman is sitting on a pillar of concrete.	entailment	entailment	18.2729606628418	0.3225806451612903
+A woman with a black purse and a red coat is sitting on a pillar of concrete.	The woman is sitting alone on top of a pillar of concrete.	contradiction	neutral	20.89754867553711	0.2903225806451613
+One man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat.	A short person in pants.	contradiction	neutral	53.17391204833984	0.11538461538461539
+One man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat.	A man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat.	entailment	entailment	9.260934829711914	0.6923076923076923
+A barber in a sports themed barber shop waits for his next customer to arrive.	The barber in a sports-themed barber shop waits for his next customer to arrive.	entailment	entailment	11.065985679626465	0.37037037037037035
+A barber in a sports themed barber shop waits for his next customer to arrive.	A barber in a shop has no interest in cutting hair.	contradiction	contradiction	34.008846282958984	0.25925925925925924
+Boy in backpack crossing the street, Other people, all Asian, are all in crosswalk walking towards the boy.	A boy is on his way to school.	contradiction	neutral	89.52084350585938	0.09375
+The cyclist rides on a wooded path.	The cyclist rides alone on a wooded path.	contradiction	neutral	17.552011489868164	0.2222222222222222
+The cyclist rides on a wooded path.	The cyclist is riding on a wooded path.	entailment	entailment	14.894660949707031	0.2777777777777778
+a woman working in the storefront of a jewelry shop fixing the display shelf.	She is thinking about modeling while working in the jewelry shop.	entailment	neutral	54.09159469604492	0.2
+a woman working in the storefront of a jewelry shop fixing the display shelf.	The woman is hating her job and wants to quit while working in the jewelry shop.	contradiction	neutral	41.891109466552734	0.23333333333333334
+Two people play horseshoes.	Tom and Sue are not playing horseshoes.	contradiction	contradiction	43.83957290649414	0.25
+Two people play horseshoes.	Two people were playing horseshoes.	entailment	entailment	31.65631866455078	0.3333333333333333
+Two adult men in black t-shirt and loud tunics hold smoking torches in preparation for an act of entertainment or celebration in a forested environment.	Two strangers hold guns to rob a bank.	contradiction	contradiction	86.21900177001953	0.14285714285714285
+Two adult men in black t-shirt and loud tunics hold smoking torches in preparation for an act of entertainment or celebration in a forested environment.	Two men hold smoking torches in preparation for an act of entertainment or celebration in a forested environment.	entailment	entailment	20.0330867767334	0.42857142857142855
+Several adults look on while a young girl plays in a ball pit.	The young girl is playing in the ball pit.	entailment	entailment	21.48592567443848	0.2857142857142857
+Several adults look on while a young girl plays in a ball pit.	An old man is crying uncontrollably.	contradiction	contradiction	43.15393829345703	0.23809523809523808
+A girl climbing a chain link fence.	A girl climbs a chain link fence.	entailment	entailment	16.9019832611084	0.3888888888888889
+A girl climbing a chain link fence.	The girl climbs down the fence to escape from school.	contradiction	neutral	32.59746551513672	0.16666666666666666
+A man biking down a tunnel.	The man is biking down a tunnel.	entailment	entailment	33.66554641723633	0.3333333333333333
+A man biking down a tunnel.	The man is losing a bike race.	contradiction	neutral	92.54488372802734	0.13333333333333333
+A smiling man with gray hair and glasses, dressed in black, is sitting in a chair with a music stand in front of him.	This man has perfect vision.	contradiction	contradiction	19.63378143310547	0.08823529411764706
+A smiling man with gray hair and glasses, dressed in black, is sitting in a chair with a music stand in front of him.	The man in the chair has difficulty reading sheet music.	entailment	neutral	20.950857162475582	0.23529411764705882
+Three children are shooting guns in the woods.	Children are playing with a deer.	contradiction	neutral	60.9465217590332	0.25
+Three children are shooting guns in the woods.	Three children are shooting animals in the woods.	entailment	neutral	32.89033508300781	0.25
+Four people wearing backpacks walking in a line along a mountain trail.	People are descending a mountain trail as the storm approaches.	entailment	neutral	72.6629409790039	0.3448275862068966
+Four people wearing backpacks walking in a line along a mountain trail.	Four people are walking along a mountain trail enjoying the view on a sunny day.	contradiction	neutral	38.61821746826172	0.2413793103448276
+Several people talk and drink beer while sitting around a picnic table.	Several strangers talk and drink beer while sitting around a picnic table.	contradiction	contradiction	15.397464752197266	0.038461538461538464
+Several people talk and drink beer while sitting around a picnic table.	The same people talk and drink beer while sitting around a picnic table.	entailment	neutral	13.456571578979492	0.11538461538461539
+A smiling girl slides down a purple slide feet first.	A boy unhappily avoids the equipment at a playground.	contradiction	contradiction	155.66461181640625	0.14285714285714285
+A man in a purple and blue shirt and shorts is getting ready to hit a golf ball.	A woman is in a kitchen.	contradiction	contradiction	25.07916259765625	0.14814814814814814
+A man in a purple and blue shirt and shorts is getting ready to hit a golf ball.	A man in a purple and blue shirt and shorts is on a golf course.	entailment	neutral	10.40054702758789	0.2962962962962963
+A man is performing for a group in front of a white house.	The man performed in front of a different person's house that is not white.	contradiction	entailment	25.363882064819336	0.3333333333333333
+A man is performing for a group in front of a white house.	The man performed in front of a white house.	entailment	entailment	17.820329666137695	0.08333333333333333
+A young man is playing a blue guitar.	The young man is playing a blue guitar for a short time before performing.	entailment	neutral	23.286212921142575	0.65
+A young man is playing a blue guitar.	A chef cooks for a long time during a meal.	contradiction	contradiction	70.95394897460938	0.4
+Two men help each other cut a sheet of plastic.	Two men help each other cut a sheet of plastic.	entailment	entailment	11.225975036621094	0.23809523809523808
+Two men help each other cut a sheet of plastic.	Strangers are fighting each other.	contradiction	contradiction	68.6128158569336	0.3333333333333333
+An old man in a blue shirt and white pants glowers by a glass door.	A man exercising inside	contradiction	contradiction	70.5842056274414	0.1
+A little girl drawing with chalk, on a chalkboard.	A boy is erasing the board outside of class.	contradiction	contradiction	60.32997894287109	0.2727272727272727
+A little girl drawing with chalk, on a chalkboard.	The little girl is drawing with chalk.	entailment	entailment	25.43986320495605	0.2727272727272727
+a wet golden retriever is walking through a lake	A wet golden retriever is walking through a lake.	entailment	contradiction	18.74864196777344	0.17391304347826086
+a wet golden retriever is walking through a lake	A dry golden retriever is sitting on a couch to watch TV.	contradiction	contradiction	36.05023956298828	0.30434782608695654
+A woman is sitting down doing some sort of craft work while another person operates a large wooden loom device in the background.	The woman doing craft work is doing so while another person operates a large wooden loom device in the background.	entailment	entailment	21.567211151123047	0.5666666666666667
+A woman is sitting down doing some sort of craft work while another person operates a large wooden loom device in the background.	The woman standing is Non-Asian.	contradiction	contradiction	82.02721405029297	0.13333333333333333
+People in chairs around a table	People are playing musical instruments.	contradiction	neutral	202.4537811279297	0.4166666666666667
+A performer plays an instrument for the audience.	A performer is playing an instrument.	entailment	entailment	27.62679672241211	0.26666666666666666
+A performer plays an instrument for the audience.	A performer is not making music.	contradiction	contradiction	38.64946365356445	0.13333333333333333
+A group of people wait to cross the street in new york	No one is blindfolded.	contradiction	contradiction	66.58057403564453	0.35
+A group of people wait to cross the street in new york	People wearing sunglasses while waiting to cross the street in New York.	entailment	neutral	26.805513381958008	0.55
+Two distinguished older gentlemen stand outside a house, trees in background, both with white hair, the taller man having his arm about the other man's shoulder as they face the camera from behind their corrective lenses.	The gentlemen are friends.	entailment	neutral	74.47897338867188	0.06382978723404255
+Two distinguished older gentlemen stand outside a house, trees in background, both with white hair, the taller man having his arm about the other man's shoulder as they face the camera from behind their corrective lenses.	The older men are siblings.	contradiction	neutral	74.49176788330078	0.02127659574468085
+A young woman dressed in black attaches bags full of flowers to a bicycle.	Flowers are fragrant.	entailment	neutral	61.7193603515625	0.15
+A young woman dressed in black attaches bags full of flowers to a bicycle.	No flowers are daisies.	contradiction	neutral	66.09685516357422	0.1
+A man stands on a dock near several boats, while 2 other men are on one of the boats.	A woman is sitting on a boat.	contradiction	contradiction	23.12723159790039	0.1875
+A bird is perched on a line of some sort attached to a pole.	A bird is perched on a line of some sort attached to a pole.	contradiction	entailment	6.979612827301025	0.34782608695652173
+A person is on a four wheeler kicking up a lot of dirt in a dune.	A person is kicking up a lot of dirt on a four wheeler in a dune	entailment	entailment	14.14503574371338	0.5416666666666666
+A person is on a four wheeler kicking up a lot of dirt in a dune.	People are relaxing.	contradiction	contradiction	68.30245208740234	0.25
+A man wearing an oxford shirt, sunglasses, and a hat smirks.	The man is revealing his true identity.	contradiction	neutral	26.04686737060547	0.14285714285714285
+A man wearing an oxford shirt, sunglasses, and a hat smirks.	The man wearing an oxford shirt, sunglasses, and a hat smirks, possibly hiding his true identity.	entailment	neutral	12.953417778015137	0.6666666666666666
+A group of people gathered at night watching an event.	A group of animals are looking in opposite directions.	contradiction	contradiction	73.88827514648438	0.22727272727272727
+A man in a suit cheering in a library in front of children.	A man is cheering children in a library.	entailment	entailment	70.40446472167969	0.20833333333333334
+Security officer working outside.	The security officer is wearing a uniform.	entailment	neutral	65.67577362060547	0.21428571428571427
+Security officer working outside.	A person is wearing a plainclothes outfit.	contradiction	neutral	85.23622131347656	0.42857142857142855
+A man in a white and gray shirt looks on as a shirtless man with a mustache cleans fish on a pale green table.	The man's pet is eating the fish that he did not catch.	contradiction	contradiction	41.999542236328125	0.225
+A man in a white and gray shirt looks on as a shirtless man with a mustache cleans fish on a pale green table.	A man catches fish and cleans them on a pale green table so he can cook.	entailment	neutral	32.91064453125	0.3
+A young couple and many others out enjoying themselves at an outdoor street event.	A young couple are enjoying themselves at an outdoor street event.	entailment	entailment	19.825254440307617	0.3103448275862069
+A young couple and many others out enjoying themselves at an outdoor street event.	An old couple are playing a board game.	contradiction	contradiction	55.46331787109375	0.3793103448275862
+Construction workers use cables to hang from the sides of buildings.	People are afraid.	contradiction	contradiction	94.4502944946289	0.17647058823529413
+Construction workers use cables to hang from the sides of buildings.	Workers who use cables to hang from the sides of buildings are performing a risky job.	entailment	neutral	24.34993553161621	0.8823529411764706
+A dark-haired man in a black uniform is speaking to a man wearing a black jacket and black helmet on a motorbike.	A dark-haired man in a black uniform is speaking to a man wearing a black jacket and black helmet on a motorbike.	entailment	entailment	5.517917156219482	0.43243243243243246
+A dark-haired man in a black uniform is speaking to a man wearing a black jacket and black helmet on a motorbike.	A man in a criminal uniform is fighting with another man.	contradiction	contradiction	21.612144470214844	0.08108108108108109
+A woman wearing a red coat stands on a wood floor in front of several paintings while two girls sit on the floor at her feet.	Man works at a factory while his children sit by his feet.	contradiction	contradiction	37.69178771972656	0.16666666666666666
+a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.	A climber pulls himself up 50 feet high above some green foliage.	contradiction	neutral	45.18621063232422	0.23333333333333334
+a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.	The climber is pulling himself up high above some green foliage.	entailment	entailment	34.20946502685547	0.3
+A woman is walking her dog along a snowy ground.	The woman is walking her dog on the snowy ground.	entailment	entailment	16.28982162475586	0.43333333333333335
+A woman is walking her dog along a snowy ground.	A woman is forcing her dog to eat a whole bag of chocolates after it has freshly snowed.	contradiction	contradiction	38.38134765625	0.3
+a boy in a blue uniform is standing next to a boy in red and a boy in yellow and they are holding baseball gloves.	Three boys standing next to each other are holding baseball gloves and ready to play.	entailment	neutral	19.116703033447266	0.3
+a boy in a blue uniform is standing next to a boy in red and a boy in yellow and they are holding baseball gloves.	Two boys are playing a game of tag and have just finished.	contradiction	neutral	26.085111618041992	0.275
+While two students are jumping, others in a classroom are sitting or standing.	All students are engaged in a different activity.	contradiction	entailment	47.40707778930664	0.35
+A man alone crosscountry skis in the wilderness while wearing a huge backpack.	A man wearing a huge backpack skis in the wilderness while it's snowing.	entailment	neutral	31.871726989746094	0.20833333333333334
+A man alone crosscountry skis in the wilderness while wearing a huge backpack.	A man skis in the wilderness.	contradiction	entailment	55.132450103759766	0.16666666666666666
+A well dressed elderly woman standing in front of a bus decorated with images of purple flowers.	A young woman is standing in front of a bus with a completely different color scheme.	contradiction	contradiction	19.86804580688477	0.20588235294117646
+A well dressed elderly woman standing in front of a bus decorated with images of purple flowers.	An elderly woman is standing in front of a bus decorated with purple flowers.	entailment	entailment	16.519437789916992	0.23529411764705882
+Two girls kissing a man with a black shirt and brown hair on the cheeks.	Two boys punch a stranger.	contradiction	contradiction	68.56278228759766	0.18181818181818182
+Two girls kissing a man with a black shirt and brown hair on the cheeks.	Two girls kiss a man with a black shirt and brown hair.	entailment	entailment	18.30732727050781	0.4090909090909091
+A large man is sitting in front of a fountain statue while talking on a phone.	A fountain statue has water flowing from it.	entailment	neutral	26.967140197753903	0.2608695652173913
+A large man is sitting in front of a fountain statue while talking on a phone.	The fountain is dry.	contradiction	contradiction	32.740352630615234	0.13043478260869565
+a man puts his hands up while telling an amusing story to his friend with a beard.	The man is amused by the events.	entailment	entailment	38.42231750488281	0.038461538461538464
+a man puts his hands up while telling an amusing story to his friend with a beard.	The friend with a beard is amused by the events.	contradiction	entailment	36.55309295654297	0.19230769230769232
+A man with a tattoo on his arm staring to the side with vehicles and buildings behind him.	A man has no tattoos on his arm.	contradiction	contradiction	30.480884552001957	0.03571428571428571
+A man with a tattoo on his arm staring to the side with vehicles and buildings behind him.	The man has a tattoo on his arm.	entailment	entailment	21.99468231201172	0.10714285714285714
+A man wearing dark knee boots, a green cape, and a hat with two big feathers on the front is sitting by himself on a bench in front of a building with a blue and white patterned piece of wheeled luggage to his right while he rests both his hands on a walking stick.	The man is sitting alone in front of a building with a blue and white patterned piece of wheeled luggage.	entailment	entailment	17.525461196899414	0.2878787878787879
+A man wearing dark knee boots, a green cape, and a hat with two big feathers on the front is sitting by himself on a bench in front of a building with a blue and white patterned piece of wheeled luggage to his right while he rests both his hands on a walking stick.	A man sits with a group of friends on a deserted island.	contradiction	contradiction	31.243804931640625	0.13636363636363635
+A crowd of people in winter garb gather in the street against a backdrop of bare trees and snow.	It is freezing cold and snowing heavily, prompting people to bundle up and gather in the street for warmth and shelter.	entailment	neutral	26.794841766357425	0.6666666666666666
+A crowd of people in winter garb gather in the street against a backdrop of bare trees and snow.	It is warm and sunny outside.	contradiction	contradiction	31.259130477905277	0.07407407407407407
+An Asian man walks a three-wheeled pedal card fully of white bags.	An Asian man walks a three-wheeled pedal card fully of white bags and he is invisible.	contradiction	neutral	33.40987014770508	0.15789473684210525
+An Asian man walks a three-wheeled pedal card fully of white bags.	An Asian man walks a three-wheeled pedal card fully of white bags as he leaves the store.	entailment	neutral	27.498186111450195	0.13157894736842105
+A couple about to kiss somewhere.	A couple of dogs are barking while playing fetch on a random Tuesday.	contradiction	contradiction	119.47855377197266	0.55
+A couple about to kiss somewhere.	A couple is kissing.	entailment	entailment	83.34378814697266	0.45
+A person in an orange shirt reaching up.	The person in the orange shirt is reaching up to grab the object.	entailment	neutral	24.388885498046875	0.3888888888888889
+A person in an orange shirt reaching up.	The person is reaching down.	contradiction	contradiction	66.81828308105469	0.2777777777777778
+A big dog catches a ball on his nose	A cat is playing with a ball.	contradiction	contradiction	77.75611114501953	0.25
+An medical worker examines a young girl.	A salesperson is selling a girl on her health.	contradiction	contradiction	141.4654998779297	0.21052631578947367
+An medical worker examines a young girl.	A medical worker is examining a girl for her medical condition.	entailment	neutral	45.67681884765625	0.2631578947368421
+There is a man poking a long stick up towards the ceiling.	A man is holding a long stick up towards the ceiling.	contradiction	contradiction	16.02056312561035	0.5263157894736842
+A man with two small boys making a purchase from a woman.	A man is purchasing from her.	entailment	entailment	64.8232421875	0.41379310344827586
+A man with two small boys making a purchase from a woman.	The woman with the little boys is selling a gift from a different store.	contradiction	neutral	42.99192810058594	0.1724137931034483
+A woman standing in front of a large tank at an aquarium turns around to look at the photographer.	The woman standing in front of a large tank at the aquarium wants a new Facebook picture.	entailment	neutral	24.049043655395508	0.4375
+A woman standing in front of a large tank at an aquarium turns around to look at the photographer.	The photographer wants a new painting of her at the aquarium.	contradiction	neutral	25.41313743591309	0.15625
+A woman standing in front of a wall holding a can of Bud Light with her shirt tied into a semi-halter.	The woman in the picture is from the Southern United States.	entailment	entailment	33.16180419921875	0.23529411764705882
+A woman standing in front of a wall holding a can of Bud Light with her shirt tied into a semi-halter.	The woman who is not shown lives in the North.	contradiction	neutral	51.63969039916992	0.058823529411764705
+A little boy with an orange backpack walks under a tree through the woods.	A girl walks home from school through the woods.	contradiction	contradiction	25.284975051879883	0.125
+A group of people are gathered on a sidewalk in front of a store nearby a littered street.	No one is definitely not going to shop at the store.	contradiction	neutral	40.37808609008789	0.21875
+A group of people are gathered on a sidewalk in front of a store nearby a littered street.	A group of people are gathered on a sidewalk in front of a store, considering whether to shop at the store nearby a littered street.	entailment	neutral	13.639322280883787	0.4375
+A man with a blue, collared shirt sits in front of another man.	The other man is looking away from the man with a blue, collared shirt.	contradiction	contradiction	11.124481201171877	0.5909090909090909
+Four men in safety gear, one holding a camera, are standing on a platform.	An accident has occurred on the platform.	entailment	neutral	37.66510009765625	0.3181818181818182
+Four men in safety gear, one holding a camera, are standing on a platform.	There has been no accident.	contradiction	neutral	46.4250373840332	0.09090909090909091
+Two men climbing on a wooden scaffold.	Two happy men climbing on a wooden scaffold.	contradiction	neutral	24.122264862060547	0.058823529411764705
+Two men climbing on a wooden scaffold.	Two men climbing on a wooden scaffold.	entailment	entailment	13.78100872039795	0.058823529411764705
+A group of children in costumes are on a stage with red curtains.	A group of adults are watching a play.	contradiction	contradiction	63.993011474609375	0.18181818181818182
+A group of children in costumes are on a stage with red curtains.	The group of children in costumes are performing a play on the stage with red curtains.	entailment	neutral	29.153982162475582	0.45454545454545453
+A red truck is parked next to a burning blue building while a man in a green vest runs toward it.	The burning blue building is already in ashes after an hour.	contradiction	contradiction	30.685009002685547	0.11764705882352941
+A red truck is parked next to a burning blue building while a man in a green vest runs toward it.	The building on fire will turn to dust after an hour.	entailment	neutral	35.27225112915039	0.08823529411764706
+A man in a blue jogging suit is running on the sidewalk in front of a painting.	The man in a	entailment	entailment	24.08087539672852	0.23076923076923078
+A man in a blue jogging suit is running on the sidewalk in front of a painting.	The man is not sweating from his run.	contradiction	neutral	27.510087966918945	0.038461538461538464
+A band performing at a local bar or club.	A band is playing classical music.	contradiction	neutral	54.14210510253906	0.1875
+A band performing at a local bar or club.	The band is playing rock music at the local bar or club.	entailment	neutral	21.110671997070312	0.4375
+A group of people are sight seeing and taking pictures.	The group is at work.	contradiction	contradiction	47.548866271972656	0.25
+A little boy with a shirt, shorts and socks on, standing on the beach.	A girl is playing basketball.	contradiction	contradiction	37.46845245361328	0.16666666666666666
+A little boy with a shirt, shorts and socks on, standing on the beach.	The boy	entailment	entailment	34.503055572509766	0.25
+Five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting.	In a dark stage, unrecognizable performers stand still with no instruments.	contradiction	contradiction	48.40416717529297	0.3902439024390244
+Five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting.	The audience screams and cries at the performers on stage.	entailment	neutral	29.785863876342773	0.2926829268292683
+A man with a cowboy hat and a gentleman with sunglasses on his head are seated next to each other.	The men dressed in different styles sit next to each other.	entailment	neutral	23.040573120117188	0.1935483870967742
+A man with a cowboy hat and a gentleman with sunglasses on his head are seated next to each other.	The men sit next to each other, dressed in the same outfit.	contradiction	entailment	19.12127113342285	0.3225806451612903
+Expert snowboard is trying a new trick.	A person is skiing at the bottom of a valley.	contradiction	contradiction	55.97060012817383	0.3333333333333333
+A woman lowering ballast on a boat.	A passenger on the boat is enjoying a peaceful cruise while the woman lowers ballast.	contradiction	neutral	51.04644775390625	0.631578947368421
+A woman lowering ballast on a boat.	The woman is lowering ballast on the boat.	entailment	entailment	43.71797180175781	0.47368421052631576
+A small child is riding in a red wagon.	An adult is in a wagon and someone is pushing it.	contradiction	contradiction	36.64131546020508	0.13636363636363635
+A small child is riding in a red wagon.	A small child is being pulled in a red wagon.	entailment	neutral	24.778356552124023	0.45454545454545453
+A group of people sitting around a table eating food.	No people are not at a table not eating Christmas dinner.	contradiction	contradiction	68.3555908203125	0.2
+A group of people sitting around a table eating food.	People are eating food at a table.	entailment	entailment	23.60142135620117	0.25
+A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.	A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a stroller down the street.	entailment	entailment	8.248462677001953	0.5277777777777778
+A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.	A young woman pushing a stroller down a quiet neighborhood street.	contradiction	neutral	26.06441116333008	0.1388888888888889
+A woman wearing an elaborate array of feathers in her hair, a bead necklace, a medallion, and an aqua, brown, and olive-green dress and looks off to her left, smiling slightly.	A woman frowns at someone to her left.	contradiction	contradiction	36.71392822265625	0.041666666666666664
+A man wearing a checkered shirt, cream suit and tennis shoes sits on a bench.	A man sits on a bench.	entailment	entailment	13.066484451293944	0.2962962962962963
+A man wearing a checkered shirt, cream suit and tennis shoes sits on a bench.	A woman is playing tennis on the bench.	contradiction	contradiction	15.007874488830566	0.2962962962962963
+Two cars are being driven in a car race.	Two cars compete in a race on a dirt track.	contradiction	neutral	28.051593780517575	0.42857142857142855
+Two cars are being driven in a car race.	Bugatti cars and Lamborghini cars compete in a road race.	entailment	entailment	39.66649627685547	0.19047619047619047
+A crowd walks about a square at night with smoke or fog drifting over them.	A group of people walk through fresh air.	contradiction	entailment	67.75757598876953	0.08
+A crowd walks about a square at night with smoke or fog drifting over them.	A group of people walk through smoke or fog.	entailment	entailment	46.22521209716797	0.12
+A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.	Two nurses are finishing medical tasks in a hospital	entailment	neutral	90.36893463134766	0.21875
+A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.	A lady is finishing orders from a patient in a silver compartment, which is most likely related to nurse-work.	contradiction	neutral	24.4379940032959	0.6875
+batter hits a baseball	A woman in a basketball game misses the ball entirely.	contradiction	contradiction	275.737060546875	0.4
+batter hits a baseball	The batter hits the baseball.	entailment	entailment	168.08819580078125	0.6
+A group of children in African clothing.	Some animals in African clothing.	contradiction	contradiction	131.4008331298828	0.23076923076923078
+A group of children in African clothing.	Children in African clothing.	entailment	entailment	67.32757568359375	0.3076923076923077
+In this picture it appears that a man is falling off a bull while attempting to ride the animal.	A woman is a city dweller.	contradiction	contradiction	49.014427185058594	0.2
+A woman is sitting outside at a table, using a knife to cut into a sandwich.	A woman is sitting outside at a table, eating a sandwich.	entailment	contradiction	14.744948387145996	0.25
+A woman is sitting outside at a table, using a knife to cut into a sandwich.	The woman is standing inside eating a sandwich.	contradiction	contradiction	24.190893173217773	0.25
+A group of children playing with props	The children are playing with toy guns.	contradiction	neutral	55.222564697265625	0.06666666666666667
+A group of children playing with props	The children are playing with toy guns.	entailment	neutral	55.222564697265625	0.06666666666666667
+An old man in a pink polo looks through a telescope with a small child standing next to him while others stand with their telescopes in the background.	A young woman in a pink polo looks through a telescope with a small child standing next to her.	contradiction	contradiction	10.505487442016602	0.12244897959183673
+An old man in a pink polo looks through a telescope with a small child standing next to him while others stand with their telescopes in the background.	An ugly old man in a pink polo looks through a telescope with a small child standing next to him, with others standing in the background.	entailment	neutral	11.226143836975098	0.16326530612244897
+A woman in a blue apron is holding a container of ice cream.	The woman in a blue apron is holding a container of ice cream.	entailment	entailment	7.439451217651367	0.5
+A woman in a blue apron is holding a container of ice cream.	A man is sitting in an outdoor park.	contradiction	contradiction	27.51149177551269	0.22727272727272727
+A woman is sitting in a chair, while a man is going through the sport utility vehicle.	A woman is sitting in a chair.	entailment	entailment	25.24816131591797	0.25
+A woman is sitting in a chair, while a man is going through the sport utility vehicle.	A woman is sitting in a chair.	contradiction	entailment	25.24816131591797	0.25
+A black and white picture of a city street with a food vendor in the foreground.	A food vendor is selling food.	entailment	entailment	26.397401809692383	0.12
+A black and white picture of a city street with a food vendor in the foreground.	The food vendor is not selling hot dogs.	contradiction	neutral	27.016511917114254	0.04
+A group walking in the middle of a walkway with a green divider, and a woman is walking by herself off to the right.	The group of people is walking together on a guided tour.	entailment	neutral	28.414119720458984	0.18181818181818182
+A group walking in the middle of a walkway with a green divider, and a woman is walking by herself off to the right.	The group is lost and confused.	contradiction	neutral	32.334800720214844	0.09090909090909091
+A man, wearing a cap, is pushing a cart, on which large display boards are kept, on a road.	The man is delivering display boards.	contradiction	neutral	48.37422180175781	0.06451612903225806
+A man, wearing a cap, is pushing a cart, on which large display boards are kept, on a road.	The man is pushing a cart with display boards on a road.	entailment	entailment	27.10615539550781	0.25806451612903225
+A group of people in front of some tan colored tents from the american Parkinsons disease association.	People are present at a gathering related to the American Parkinson's Disease Association.	entailment	neutral	92.90673828125	0.4666666666666667
+A group of people in front of some tan colored tents from the american Parkinsons disease association.	No group shows up to an event to protest against research on Parkinsons.	contradiction	neutral	99.54447174072266	0.13333333333333333
+Two little boys are playing on stairs that have a carpet runner going down them.	Two grown men are actually sitting on a couch.	contradiction	contradiction	55.80122375488281	0.2857142857142857
+Two little boys are playing on stairs that have a carpet runner going down them.	The two boys are playing on the stairs, going up and down as if they were climbing a mountain.	entailment	contradiction	22.82292938232422	0.5357142857142857
+A man in a green shirt is getting his feet wet in front of a wall showing a closeup picture of a face.	The man is avoiding his friend and ignoring him.	contradiction	contradiction	35.008663177490234	0.18421052631578946
+A man in a green shirt is getting his feet wet in front of a wall showing a closeup picture of a face.	A man in a green shirt is standing in front of a wall showing a close	entailment	entailment	15.16007137298584	0.39473684210526316
+A man wearing black pants and a helmet is riding a brown horse.	The man is riding a horse.	entailment	entailment	24.822114944458008	0.17391304347826086
+A man wearing black pants and a helmet is riding a brown horse.	A man is taking a leisurely ride on a brown horse.	contradiction	neutral	23.08000946044922	0.30434782608695654
+A girl in black pants doing exercises.	A girl not interested in fitness is playing a musical instrument.	contradiction	contradiction	86.76554107666016	0.42105263157894735
+A girl in black pants doing exercises.	The girl is doing exercises to improve her physical fitness.	entailment	neutral	48.87068557739258	0.47368421052631576
+An Asian wearing a pastel print shirt and sunhat pushing his cart up the street.	The Asian is pushing a cart with food.	entailment	neutral	114.77977752685548	0.2608695652173913
+An Asian wearing a pastel print shirt and sunhat pushing his cart up the street.	A person is pushing a cart.	contradiction	entailment	109.2605209350586	0.2608695652173913
+a woman in a brown dress looking at papers in front of a class.	The woman looking at papers in front of a class is an instructor.	entailment	neutral	22.1923885345459	0.43478260869565216
+a woman in a brown dress looking at papers in front of a class.	A man playing a musical instrument is a student.	contradiction	contradiction	44.30630111694336	0.2608695652173913
+Woman adjusting her eyeglasses.	Woman adjusting her eyeglasses while singing.	contradiction	neutral	50.46253967285156	0.16666666666666666
+Woman adjusting her eyeglasses.	Woman adjusting her eyeglasses while reading.	entailment	neutral	44.68259811401367	0.08333333333333333
+A four piece band plays a song on a medium-size stage.	The band is playing classical music.	contradiction	neutral	40.22016906738281	0.09090909090909091
+A four piece band plays a song on a medium-size stage.	A four-piece band is playing music on stage.	entailment	entailment	33.54695510864258	0.3181818181818182
+A young boy in red leaping into sand at a playground.	A young girl steps onto a puddle at a playground.	contradiction	contradiction	50.1707763671875	0.24
+A young boy in red leaping into sand at a playground.	A young boy leaps into the sand at a playground.	entailment	entailment	32.61886215209961	0.2
+A man and a Woman cutting dough.	Siblings are fighting.	contradiction	contradiction	389.0457458496094	0.4
+A man in green pants and blue shirt pushing a cart.	A young woman pushing a cart.	contradiction	contradiction	39.20146179199219	0.15789473684210525
+A man in green pants and blue shirt pushing a cart.	A man in green pants and blue shirt	entailment	entailment	20.63538932800293	0.42105263157894735
+In an apparent classroom setting, a young man in a blue t-shirt has a book on his knee while a woman dressed in black next to him leans in to point out something in the book.	The young man and woman in the classroom are pointing out something in the book.	entailment	entailment	20.5664005279541	0.2127659574468085
+Dog running with a purple toy in the snowy field.	No dog is asleep.	contradiction	contradiction	213.02005004882807	0.125
+A young ladies squatting at hillside sipping on a drink the other one with the white purse is talking pictures.	A group of photographers taking pictures.	contradiction	neutral	143.37747192382812	0.16666666666666666
+Two people are participating in the sport fencing.	Two people are cooperating in a cooking competition.	contradiction	contradiction	99.9279327392578	0.3125
+Two people are participating in the sport fencing.	"  The original hypothesis ""Two people competing in a fencing tournament"" already entails the premise ""Two people are participating in the sport fencing,"" so no changes are needed. The hypothesis already implies that the two people are engaged in a competitive activity, which aligns with the premise. Therefore, the edited hypothesis is the same as the original hypothesis: ""Two people competing in a fencing tournament."""	entailment	neutral	25.37393569946289	4.4375
+A man in a pinstriped suit walks down the street and does n't notice the quirky poster on his left.	The man who never purchased a pinstriped suit noticed the poster to his left that shows a man wearing the same suit.	contradiction	neutral	30.19764518737793	0.16
+A man talking into a microphone with a woman standing next to him.	A different woman is standing next to the man who is talking into a microphone.	contradiction	entailment	12.01730251312256	0.46153846153846156
+Two brown and white dogs running on a grassy but brown fenced yard.	The dogs were running along the fence, trying to find its end.	entailment	neutral	46.207969665527344	0.5
+Two brown and white dogs running on a grassy but brown fenced yard.	The dogs were running on a grassy but brown fenced yard, but they couldn't find the end of the fence no matter how far they went.	contradiction	neutral	16.43913459777832	0.5714285714285714
+A small dog runs to catch a ball.	The dog is a cat.	contradiction	contradiction	36.80696868896485	0.06666666666666667
+A small dog runs to catch a ball.	The dog, being a chihuahua, is able to catch the ball.	entailment	neutral	17.398679733276367	0.6
+A police person is on a motorcycle on the side of a street.	A policewoman is riding the motorcycle behind the parked car.	entailment	neutral	19.96906280517578	0.07692307692307693
+A police person is on a motorcycle on the side of a street.	A police officer is standing next to the motorcycle on the side of a street.	contradiction	contradiction	9.415756225585938	0.38461538461538464
+There is a woman in a white tank top and camouflage pants with a big black belt on a stage holding a microphone.	The woman is already performing on stage, having finished her song.	contradiction	neutral	27.18160820007324	0.2702702702702703
+There is a woman in a white tank top and camouflage pants with a big black belt on a stage holding a microphone.	The woman is singing	entailment	neutral	23.788780212402344	0.2972972972972973
+Two gondola operators sit along a road in Italy.	Gondola operators are sitting along a road in Italy.	entailment	entailment	20.11345100402832	0.3684210526315789
+Two gondola operators sit along a road in Italy.	The gondola operators are working.	contradiction	neutral	38.016212463378906	0.21052631578947367
+A middle-aged woman with red-hair, a white shirt, and a silver beaded necklace is holding a yellow cellphone against her ear while talking.	She was calling her daughter using a landline phone.	contradiction	neutral	33.5804443359375	0.1282051282051282
+A middle-aged woman with red-hair, a white shirt, and a silver beaded necklace is holding a yellow cellphone against her ear while talking.	The woman was talking on her cellphone.	entailment	entailment	30.345672607421875	0.1282051282051282
+a dog jumps over the pole.	The dog is showing his skills by jumping over poles.	entailment	neutral	52.8682746887207	0.5789473684210527
+a dog jumps over the pole.	Cat is sitting at home sleeping.	contradiction	contradiction	126.25264739990234	0.5263157894736842
+A boy posing on the soccer field.	A girl is playing basketball.	contradiction	contradiction	45.60626983642578	0.375
+A boy posing on the soccer field.	A boy poses on a soccer team.	entailment	neutral	43.62309265136719	0.125
+A woman in a red jacket walks down the street in the rain.	A woman walks in the street.	neutral	entailment	26.944549560546875	0.3333333333333333
+A woman in a red jacket walks down the street in the rain.	A woman in a red jacket walks down the street in the rain.	entailment	entailment	5.869814395904541	0.5238095238095238
+Men wearing blue uniforms sit on a bus.	Men sit on the bus.	entailment	entailment	41.17586898803711	0.29411764705882354
+Men wearing blue uniforms sit on a bus.	Men ride the bus on the road.	neutral	neutral	49.11665344238281	0.17647058823529413
+A man in a suit cheering in a library in front of children.	A man is cheering in a library in front of children.	entailment	entailment	25.582019805908203	0.36363636363636365
+A man in a suit cheering in a library in front of children.	A child is participating in an activity.	neutral	entailment	86.40296936035156	0.22727272727272727
+An old man holds up a sign.	A man is holding a sign.	entailment	entailment	14.697141647338867	0.23076923076923078
+An old man holds up a sign.	The old man is sleeping.	neutral	contradiction	23.99238586425781	0.15384615384615385
+A passenger wearing a life jacket prepares to take a picture of a whale very close to the boat.	The passenger is preparing to take a picture of a whale.	neutral	entailment	19.01034927368164	0.2
+A passenger wearing a life jacket prepares to take a picture of a whale very close to the boat.	A passenger prepares to take a picture of a whale very close to the boat.	entailment	entailment	11.029245376586914	0.3333333333333333
+The man walks among the large trees.	A man is walking in a forest.	neutral	neutral	36.134910583496094	0.3125
+The man walks among the large trees.	The man walks among dogs.	entailment	contradiction	68.69380950927734	0.3125
+Several adults look on while a young girl plays in a ball pit.	A young girl is playing in a ball pit.	entailment	entailment	20.11871719360352	0.17391304347826086
+Several adults look on while a young girl plays in a ball pit.	The girl is playing.	neutral	entailment	44.15315628051758	0.2608695652173913
+A blond woman with a tattoo of on an angel on her arm walking down the street, a concrete wall in the background.	Some people have body art.	neutral	entailment	42.682037353515625	0.20689655172413793
+A blond woman with a tattoo of on an angel on her arm walking down the street, a concrete wall in the background.	Someone has a tattoo.	entailment	entailment	37.8598747253418	0.06896551724137931
+A four piece band plays a song on a medium-size stage.	The band performs there.	neutral	entailment	56.34409713745117	0.42857142857142855
+A four piece band plays a song on a medium-size stage.	A four piece band plays a song on a medium-size stage.	entailment	entailment	10.88139533996582	0.03571428571428571
+An elderly woman with a tan nun uniform on and glasses is taking a picture with her camera.	The woman is wearing a nun uniform.	neutral	entailment	44.110687255859375	0.14814814814814814
+An elderly woman with a tan nun uniform on and glasses is taking a picture with her camera.	An elderly woman is in a tan nun uniform.	entailment	entailment	61.32511520385742	0.14814814814814814
+A juggler wearing a plaid kilt and a green shirt, juggling.	A person is riding a bike on a flat surface, wearing clothing.	neutral	contradiction	61.71612930297852	0.2916666666666667
+A juggler wearing a plaid kilt and a green shirt, juggling.	A juggler wearing a plaid kilt and a green shirt, juggling down a hill.	entailment	neutral	15.613435745239258	0.5
+A red dog jumps and catches a tennis ball in its mouth.	A dog catches a tennis ball in its mouth.	entailment	entailment	14.326388359069824	0.5294117647058824
+A red dog jumps and catches a tennis ball in its mouth.	A person is watching a dog.	neutral	neutral	44.69882583618164	0.4117647058823529
+A woman cook in an apron is smiling at the camera with two other cooks in the background.	The woman is focused on her work.	neutral	contradiction	36.2125244140625	0.25925925925925924
+A woman cook in an apron is smiling at the camera with two other cooks in the background.	A woman cook in an apron is smiling at the camera.	entailment	entailment	16.611801147460938	0.2962962962962963
+Two men holding a Chinese lantern that's yellow and red, one man has a drill and the other is smiling.	A man and his daughter build something while something is behind them.	entailment	neutral	65.46185302734375	0.13157894736842105
+Two men holding a Chinese lantern that's yellow and red, one man has a drill and the other is smiling.	Two people are working on a project in a nearby area.	neutral	neutral	43.13924407958984	0.34210526315789475
+A man with a beard is playing an acoustic guitar on the street.	A woman plays an instrument on the street.	entailment	contradiction	16.78499412536621	0.3157894736842105
+A man with a beard is playing an acoustic guitar on the street.	A person plays a musical instrument.	neutral	entailment	24.77318572998047	0.2631578947368421
+Two men in hard hats and safety neon vests on scaffolding working outside in the daylight.	People are inside a building.	neutral	contradiction	119.42028045654295	0.3333333333333333
+Two men in hard hats and safety neon vests on scaffolding working outside in the daylight.	Two men in hard hats and safety neon vests on scaffolding working outside in the daylight, installing a modern art piece for an upcoming exhibition.	entailment	neutral	23.976436614990234	0.8518518518518519
+A blond man playing a guitar.	A blond man is playing a guitar.	entailment	entailment	22.97743034362793	0.06666666666666667
+A blond man playing a guitar.	A man is playing a guitar.	neutral	entailment	30.07963752746582	0.06666666666666667
+Two dancers in pink tops and striped capri bottoms perform on stage barefoot.	Two performers are performing.	neutral	entailment	114.12237548828124	0.14285714285714285
+Two dancers in pink tops and striped capri bottoms perform on stage barefoot.	Two dancers are performing on stage barefoot.	entailment	entailment	45.03020477294922	0.09523809523809523
+Expert snowboard is trying a new trick.	A person is skiing on snow.	neutral	contradiction	78.77800750732422	0.25
+Expert snowboard is trying a new trick.	The person is snowboarding.	entailment	entailment	84.29835510253906	0.25
+A city street corner with two passing bicyclists and several pedestrians.	The people are outdoors.	entailment	entailment	93.07621002197266	0.058823529411764705
+A city street corner with two passing bicyclists and several pedestrians.	People are outdoors.	neutral	entailment	110.8926239013672	0.17647058823529413
+A black and white picture of a city street with a food vendor in the foreground.	Some colors are less common.	neutral	entailment	43.381378173828125	0.24
+A black and white picture of a city street with a food vendor in the foreground.	The colors are not visible in the picture.	entailment	entailment	23.4273738861084	0.2
+A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.	The tennis ball is dirty.	entailment	entailment	36.48686218261719	0.038461538461538464
+A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.	A tennis ball is dirty.	neutral	entailment	39.25211715698242	0.07692307692307693
+An accident involving a green Sudan and a gray van.	The cars stopped at a signal.	neutral	contradiction	154.57241821289062	0.4090909090909091
+An accident involving a green Sudan and a gray van.	A green Sudan and a gray van waited patiently for the light to turn green.	entailment	contradiction	47.652950286865234	0.3181818181818182
+3 cyclists are racing ahead of a red BMW, with the leader wearing solid white helmet and black cycling pants	Three people are riding bicycles ahead of a red BMW.	entailment	entailment	105.14598846435548	0.16666666666666666
+3 cyclists are racing ahead of a red BMW, with the leader wearing solid white helmet and black cycling pants	The three people are cycling on a track.	neutral	neutral	160.05174255371094	0.2
+A snowboarder with a maroon coat sails through the air.	The snowboarder's coat is not visible.	neutral	contradiction	27.062936782836918	0.25
+A snowboarder with a maroon coat sails through the air.	The snowboarder is wearing a maroon coat.	entailment	entailment	19.44608688354492	0.25
+A team of surgeons operate on a female patient.	The surgeons are performing surgery.	neutral	entailment	36.96466827392578	0.2631578947368421
+A team of surgeons operate on a female patient.	The surgeons are operating on a female patient.	entailment	entailment	20.059024810791016	0.05263157894736842
+An elderly Man wearing a olive green shirt and red and white striped apron is stacking cheese.	A person is consuming some food.	neutral	entailment	121.31169128417967	0.19230769230769232
+A lady in a red shirt and bikini bottoms is about to go surfing on a blue board in the ocean.	A person is in the water on a blue board in a body of water.	neutral	entailment	25.32004165649414	0.4
+A lady in a red shirt and bikini bottoms is about to go surfing on a blue board in the ocean.	A woman is surfing on a blue board in the ocean.	entailment	entailment	18.149494171142575	0.2
+A man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree.	The man is playing in the snow.	entailment	entailment	54.071231842041016	0.11428571428571428
+A man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree.	A person is playing in the snow.	neutral	entailment	60.776309967041016	0.17142857142857143
+A boy is riding down the road between two cows.	One cow is standing.	neutral	contradiction	69.40406036376953	0.17647058823529413
+A boy is riding down the road between two cows.	A single cow.	entailment	contradiction	82.5452651977539	0.11764705882352941
+two male's in a karate class, one who is in the air with a blue and orange belt and one who is about to get kicked in the face.	Two males are kicking.	entailment	entailment	35.79686737060547	0.13513513513513514
+two male's in a karate class, one who is in the air with a blue and orange belt and one who is about to get kicked in the face.	The two males perform karate moves.	neutral	entailment	29.299657821655277	0.16216216216216217
+A man walks by a building at night.	The man is standing outside.	neutral	contradiction	31.73663330078125	0.29411764705882354
+A man walks by a building at night.	A man walks at night.	entailment	entailment	22.32000160217285	0.29411764705882354
+A woman runs on the beach.	A woman is.	neutral	contradiction	78.96601867675781	0.5789473684210527
+A man standing on a street with a suitcase in front of him while another man bends down to look at what is displayed on top of it.	Two people sit on chairs in a room.	neutral	contradiction	21.56709861755371	0.13157894736842105
+A baby sitting in a highchair looking delighted.	The baby is smiling.	entailment	entailment	50.62780380249024	0.07142857142857142
+A baby sitting in a highchair looking delighted.	A baby looking.	neutral	entailment	78.0112075805664	0.21428571428571427
+A person is posed with one leg raised and one arm out at a competition with their teammates in the background.	The person is posed with one arm out at a competition.	neutral	entailment	29.981861114501957	0.15151515151515152
+A person is posed with one leg raised and one arm out at a competition with their teammates in the background.	A man posed with one arm out at a competition.	entailment	neutral	36.24724960327149	0.06060606060606061
+A man hammering nails on a shed.	A shed is made of t-shirts.	neutral	contradiction	83.08674621582031	0.058823529411764705
+A man hammering nails on a shed.	The shed has t-shirts.	entailment	neutral	94.5945281982422	0.17647058823529413
+kids are looking at something on a table.	The kids are using the table.	neutral	contradiction	60.1502799987793	0.17647058823529413
+kids are looking at something on a table.	Some kids are looking at something on the table.	entailment	entailment	27.408750534057617	0.29411764705882354
+A man wearing a black hat and coat makes a face with a crowd behind him.	The man is standing.	neutral	neutral	30.72429084777832	0.16666666666666666
+A man wearing a black hat and coat makes a face with a crowd behind him.	A man is making a face with a crowd behind him.	entailment	entailment	13.148561477661133	0.2916666666666667
+A couple is eating outside at a table and he is pointing at something.	A couple is eating at a table and he is pointing at something.	entailment	entailment	14.872199058532717	0.03333333333333333
+A couple is eating outside at a table and he is pointing at something.	The couple is sitting at a table and he is pointing at something.	neutral	entailment	17.324068069458008	0.1
+A young boy wearing an orange uniform stands on the field near a colorful ball.	The boy is playing with a ball.	neutral	neutral	30.893949508666992	0.21739130434782608
+A young boy wearing an orange uniform stands on the field near a colorful ball.	A young girl wearing a uniform stands on the field near a colorful ball.	entailment	contradiction	17.280118942260742	0.4782608695652174
+The blue kayak is being ridden over a small waterfall.	The guy is paddling.	neutral	neutral	69.90866088867188	0.3
+One female and two male musicians holding musical equipment.	There are four people.	neutral	entailment	162.261474609375	0.23076923076923078
+One female and two male musicians holding musical equipment.	There are four people.	entailment	entailment	162.261474609375	0.23076923076923078
+One man, shirtless, and a woman, clothed, jumping in the water.	People are somewhere.	neutral	entailment	60.156158447265625	0.3793103448275862
+One man, shirtless, and a woman, clothed, jumping in the water.	A man and a woman are jumping in the water.	entailment	entailment	20.97869300842285	0.3448275862068966
+Two formally dressed, bald older women	Two women.	neutral	entailment	1112.36865234375	0.2857142857142857
+Two formally dressed, bald older women	Two formally dressed, bald older women	entailment	entailment	82.37810516357422	0.42857142857142855
+A younger couple is walking across a crosswalk outside with a very busy bus stop behind them.	Other people are in the vicinity.	neutral	entailment	46.758785247802734	0.23076923076923078
+A younger couple is walking across a crosswalk outside with a very busy bus stop behind them.	A younger couple is walking outside.	entailment	entailment	61.46731185913086	0.2692307692307692
+A man touching a hanging strand of lamps.	A man has	entailment	neutral	315.7979431152344	0.4
+A man touching a hanging strand of lamps.	The man is holding something.	neutral	entailment	164.23696899414062	0.45
+A mountaineer about to descend down a mountain with a blue helmet on.	The mountaineer is enjoying a beverage at the base of the mountain.	neutral	contradiction	22.103744506835938	0.4583333333333333
+A mountaineer about to descend down a mountain with a blue helmet on.	A mountaineer is drinking hot cocoa on the mountain.	entailment	contradiction	39.238258361816406	0.16666666666666666
+A dog standing near snow looking at water.	A dog is standing on the snow.	entailment	entailment	68.2961654663086	0.17647058823529413
+A dog standing near snow looking at water.	An animal is resting.	neutral	neutral	217.1547088623047	0.35294117647058826
+Children at daycare playing on rings, and poles, one parent standing and holding her child and one teacher is sitting on the bench watching the others play.	Children are playing rough and tumble games.	entailment	neutral	82.68522644042969	0.13513513513513514
+Children at daycare playing on rings, and poles, one parent standing and holding her child and one teacher is sitting on the bench watching the others play.	The children are playing.	neutral	entailment	80.37808990478516	0.16216216216216217
+A man sits outdoors with some of his belongings.	A man sits with some of his belongings.	entailment	entailment	15.410605430603027	0.4
+A man sits outdoors with some of his belongings.	The man is sitting.	neutral	entailment	46.35044097900391	0.13333333333333333
+The dog is in the snow in front of some trees.	A dog is in the snow in front of some trees.	entailment	entailment	11.93007755279541	0.3684210526315789
+The dog is in the snow in front of some trees.	The cat is in the vicinity.	neutral	contradiction	31.62139892578125	0.15789473684210525
+A motorist gets some air over a rough hill.	A motorist is having trouble over a rough hill.	entailment	neutral	39.91519546508789	0.4666666666666667
+A motorist gets some air over a rough hill.	The motorist is stopped.	neutral	contradiction	68.70065307617188	0.2
+two people riding their bikes down a street together.	Two people ride their bikes down a street together.	entailment	contradiction	13.531639099121094	0.5
+two people riding their bikes down a street together.	The couple is together.	neutral	neutral	69.81742095947266	0.3333333333333333
+The white dog is pulling a large stick.	The dog is outside.	entailment	neutral	63.533809661865234	0.3157894736842105
+The white dog is pulling a large stick.	The dog is resting at the park.	neutral	contradiction	56.63849258422852	0.15789473684210525
+A hand holds a strainer with a small amount of liquid in it with a table with bins in the background.	A hand holds a strainer with a small amount of liquid in it with	entailment	entailment	11.440326690673828	0.41935483870967744
+A hand holds a strainer with a small amount of liquid in it with a table with bins in the background.	Some bins sit in the background.	neutral	entailment	35.75144958496094	0.1935483870967742
+A jubilant crowd dressed fabulously in purple red and yellow-gold move in step on a metropolitan street.	One person moving in step with the crowd.	entailment	neutral	114.98174285888672	0.18518518518518517
+A jubilant crowd dressed fabulously in purple red and yellow-gold move in step on a metropolitan street.	A person is moving along the street.	neutral	entailment	131.8438262939453	0.14814814814814814
+A group of people is sitting at a large table and using paint brushes to form characters on white paper.	The people are using paint brushes to paint with.	entailment	entailment	27.84676170349121	0.06451612903225806
+A group of people is sitting at a large table and using paint brushes to form characters on white paper.	People are using brushes to paint.	neutral	entailment	39.74694442749024	0.16129032258064516
+A man and a child are purchasing ice cream from a man with a hand pushed ice cream cart.	People are consuming food.	neutral	entailment	87.67440032958984	0.25
+An adorable child leaping to block a soccer ball from entering the goal.	A child leaping to block a soccer ball from entering the goal with his hockey stick.	entailment	contradiction	25.013057708740234	0.3333333333333333
+An adorable child leaping to block a soccer ball from entering the goal.	The child interferes with the ball with a body part.	neutral	entailment	45.17334747314453	0.3333333333333333
+A man interviews a boy in a gathering of people.	A man interviews a little boy in front of a gather of people.	entailment	entailment	26.867307662963867	0.04
+A man interviews a boy in a gathering of people.	The man touches the boy nearby.	neutral	contradiction	70.79940032958984	0.44
+A rugby player swings his leg back to punt the ball.	A person is standing on a field.	neutral	entailment	67.5240249633789	0.3333333333333333
+A rugby player swings his leg back to punt the ball.	A rugby player swings his leg back to punt the ball on the field.	entailment	neutral	16.999387741088867	0.5714285714285714
+A basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team.	A basketball player is warming up.	neutral	neutral	37.92166519165039	0.16129032258064516
+A basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team.	The basketball player is warming up on the sidelines.	entailment	contradiction	28.951528549194336	0.06451612903225806
+A photo of a woman in a black coat standing in front of a large two-paneled photo depicting a woman in a gray dress looking down with her hand in a bag.	The photo features people.	neutral	entailment	26.66965675354004	0.09523809523809523
+A photo of a woman in a black coat standing in front of a large two-paneled photo depicting a woman in a gray dress looking down with her hand in a bag.	The photo was of a woman.	entailment	entailment	20.952537536621094	0.047619047619047616
+A young family enjoys feeling ocean waves lap at their feet.	A family is enjoying ocean waves lapping at their feet.	entailment	entailment	48.30958557128906	0.3
+A young family enjoys feeling ocean waves lap at their feet.	The family is enjoying a meal.	neutral	contradiction	107.89989471435548	0.2
+A policeman on a motorcycle from the rear.	A policeman on a motorcycle.	entailment	entailment	34.0362548828125	0.2
+A policeman on a motorcycle from the rear.	A policeman on a motorcycle.	neutral	entailment	34.0362548828125	0.2
+A worker is preparing fish to be sold at a market.	The worker is preparing fish.	neutral	entailment	27.73914337158203	0.3
+A worker is preparing fish to be sold at a market.	A worker is preparing fish.	entailment	entailment	24.40583610534668	0.25
+A young boy with a shaved head and dirty white collared shirt holds a chicken in his arm.	A young boy is playing.	neutral	neutral	38.1953010559082	0.12
+A young boy with a shaved head and dirty white collared shirt holds a chicken in his arm.	The young boy holds a chicken.	entailment	entailment	23.038408279418945	0.12
+2 people with backpacks are at a table with a woman with a beige blazer sitting behind it.	People are interacting.	neutral	entailment	59.91337203979492	0.17391304347826086
+2 people with backpacks are at a table with a woman with a beige blazer sitting behind it.	2 people with backpacks are kissing.	entailment	contradiction	37.06787872314453	0.17391304347826086
+A group of adults standing up with children in sports attire kneeling on the ground.	Adults drink moonshine.	entailment	contradiction	115.11132049560548	0.14285714285714285
+A group of adults standing up with children in sports attire kneeling on the ground.	The woman is drinking.	neutral	contradiction	114.52272033691406	0.14285714285714285
+A young girl is standing in a kitchen holding a green bib.	A boy is standing in a kitchen holding a bib.	entailment	contradiction	16.148712158203125	0.2857142857142857
+A young girl is standing in a kitchen holding a green bib.	A child is playing with a toy.	neutral	entailment	30.81473731994629	0.09523809523809523
+Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.	The little boys are laughing.	entailment	entailment	27.13661193847656	0.04
+Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.	The boys are making noise.	neutral	entailment	31.83788299560547	0.12
+Man in leather jacket and scarf sits on purple cushion at a party.	A person is resting on a soft surface.	neutral	entailment	87.2349853515625	0.18181818181818182
+Man in leather jacket and scarf sits on purple cushion at a party.	A person is sitting on a purple cushion at a party.	entailment	entailment	29.88294982910156	0.3181818181818182
+A young couple sitting in a black chair smiling.	Two people are sitting.	neutral	entailment	84.15097045898438	0.125
+A young couple sitting in a black chair smiling.	A young couple is smiling.	entailment	entailment	57.72408676147461	0.25
+A woman is cutting into a sandwich while sitting at an outdoor table.	The lady on the table is cutting.	entailment	entailment	51.90636444091797	0.14285714285714285
+A woman is cutting into a sandwich while sitting at an outdoor table.	The woman is eating.	neutral	entailment	41.44301986694336	0.3333333333333333
+A woman wearing a striped wrap is bent over in a cornfield while looking at the camera.	A person wearing a striped wrap is bent over in a cornfield while looking at the camera.	entailment	entailment	8.543039321899414	0.08333333333333333
+A woman wearing a striped wrap is bent over in a cornfield while looking at the camera.	A person wearing clothing is stooped in a cornfield while looking at the camera.	neutral	entailment	22.43047332763672	0.16666666666666666
+A smiling man and a baby girl posing for photo.	The baby girl is being photographed with the man.	neutral	entailment	31.165611267089844	0.38095238095238093
+A smiling man and a baby girl posing for photo.	A baby girl poses for a photo.	entailment	entailment	26.63584899902344	0.23809523809523808
+A bicyclist wearing white sunglasses and a white and black helmet.	Somebody is wearing white sunglasses.	entailment	entailment	69.38262176513672	0.3333333333333333
+A bicyclist wearing white sunglasses and a white and black helmet.	Some people have any sunglasses.	neutral	contradiction	132.87318420410156	0.3333333333333333
+A man in a dark long rainproof jacket but dry hair walks to the left in a city that has recently rained.	The man is sitting in a bar in the city.	entailment	contradiction	59.99697113037109	0.23333333333333334
+A man in a dark long rainproof jacket but dry hair walks to the left in a city that has recently rained.	A man is standing in the bar.	neutral	contradiction	80.94537353515625	0.1
+A woman with a vest and red shirt is holding her hand up above a black and white dog that is jumping.	A woman is wearing something.	neutral	entailment	62.39269256591797	0.15625
+A woman with a vest and red shirt is holding her hand up above a black and white dog that is jumping.	The woman is wearing a vest.	entailment	entailment	37.7596321105957	0.09375
+A large group of people walking in a busy city at night.	People are in a busy city at night.	entailment	entailment	26.07808303833008	0.25
+A large group of people walking in a busy city at night.	Some people are in a public space.	neutral	entailment	34.02376937866211	0.25
+Two children play in the snow by the side of the road.	Children are playing in the snow.	entailment	entailment	13.141008377075195	0.2777777777777778
+Two children play in the snow by the side of the road.	Children are playing.	neutral	entailment	20.910924911499023	0.16666666666666666
+A man sitting on a statue outdoors, near a woman standing next to him.	Kids are playing outdoors.	neutral	contradiction	64.66138458251953	0.2727272727272727
+A man sitting on a statue outdoors, near a woman standing next to him.	Children playing near a statue outdoors.	entailment	contradiction	57.63008117675781	0.2727272727272727
+An asian teenager wearing a white shirt with black stripes is sitting on the steps with his face resting on his hand.	The teenager is resting his hand on the railing.	entailment	contradiction	26.4213809967041	0.12903225806451613
+An asian teenager wearing a white shirt with black stripes is sitting on the steps with his face resting on his hand.	A person is sitting.	neutral	entailment	41.220985412597656	0.1935483870967742
+A man of the cloth puts a black substance on a man's forehead.	The people are at the park.	entailment	contradiction	52.560020446777344	0.045454545454545456
+A man of the cloth puts a black substance on a man's forehead.	People are gathered.	neutral	contradiction	59.04796600341797	0.22727272727272727
+a woman wearing a pink tank top holding a mug of liquid	The woman is holding a mug.	neutral	entailment	42.438507080078125	0.30434782608695654
+Two black guys, that are on rival teams playing basketball.	Two people are involved in a basketball game.	neutral	entailment	46.06868743896485	0.35294117647058826
+Two black guys, that are on rival teams playing basketball.	Two people playing basketball.	entailment	entailment	66.01549530029297	0.058823529411764705
+A woman is holding a large check for Kids Food Basket.	She is receiving from them.	entailment	entailment	135.18341064453125	0.05555555555555555
+A woman is holding a large check for Kids Food Basket.	She is involved with Kids Food Basket.	neutral	entailment	45.264381408691406	0.2777777777777778
+Swimming in the wide blue ocean.	The ocean is swum in the wide blue.	entailment	entailment	59.797611236572266	0.26666666666666666
+Swimming in the wide blue ocean.	The water is blue and wide.	neutral	entailment	50.94090270996094	0.4
+Two men and one woman with blond-hair walk through a gate with barbed wire on top.	Two animals are passing through a barrier.	neutral	contradiction	72.8883285522461	0.14814814814814814
+Two men and one woman with blond-hair walk through a gate with barbed wire on top.	Two people are walking through a gate.	entailment	entailment	38.64345550537109	0.07407407407407407
+Man and a child at an exhibit booth looking at something.	The woman is sitting.	neutral	contradiction	117.5641860961914	0.3333333333333333
+Man and a child at an exhibit booth looking at something.	A woman and her dog are looking at something at a booth.	entailment	contradiction	37.74482727050781	0.2857142857142857
+A woman swings on a rope overlooking a red farmhouse and gated pastures and tall trees.	A person is spending time with children.	neutral	neutral	128.29196166992188	0.24
+A woman swings on a rope overlooking a red farmhouse and gated pastures and tall trees.	The woman is swinging.	entailment	entailment	143.5419158935547	0.24
+A group of swimmers jump into a pool.	The swimmers are traveling to their competition.	neutral	neutral	36.18112182617188	0.4230769230769231
+A group of swimmers jump into a pool.	A group of swimmers jumping into a pool.	entailment	entailment	10.751592636108398	0.46153846153846156
+A few women and children are collecting items from rocks.	People are collecting items from rocks.	entailment	entailment	45.77862548828125	0.1875
+A few women and children are collecting items from rocks.	The people are examining rocks.	neutral	entailment	96.2010269165039	0.1875
+A group of female athletes are huddled together and excited.	Some athletes can breathe underwater.	neutral	contradiction	92.67263793945312	0.2
+A group of female athletes are huddled together and excited.	The group of athletes are all excited.	entailment	entailment	35.16286849975586	0.2
+A woman with a white blanket over her head is holding a baby wrapped in a blue, pink, and yellow blanket.	The blanket is blue, pink, and yellow.	entailment	entailment	11.989693641662598	0.20689655172413793
+A woman with a white blanket over her head is holding a baby wrapped in a blue, pink, and yellow blanket.	A blanket has a color.	neutral	entailment	26.67083168029785	0.13793103448275862
+A dark-skinned person, crouched while painting a sign.	A person is painting his house.	entailment	contradiction	111.06715393066406	0.1
+A dark-skinned person, crouched while painting a sign.	A person is painting.	neutral	entailment	120.07063293457033	0.2
+A woman with a black purse and a red coat is sitting on a pillar of concrete.	The woman is walking down the path, jogging with earphones in her ears.	entailment	contradiction	28.494102478027344	0.030303030303030304
+A woman with a black purse and a red coat is sitting on a pillar of concrete.	A woman wearing earphones is walking.	neutral	contradiction	48.45320892333984	0.36363636363636365
+A man in a green shirt and large beige hat is supervising a newsstand that sells snacks and drinks.	A man in a green shirt and large beige hat is sitting in a public place.	neutral	entailment	18.84753799438477	0.5769230769230769
+A man in a green shirt and large beige hat is supervising a newsstand that sells snacks and drinks.	the man is taking a break near the newsstand.	entailment	contradiction	39.23155975341797	0.2692307692307692
+Two boys with blond-hair, wearing striped shirts on a bed.	Two boys with blond-hair, wearing striped shirts are sitting on a bed.	entailment	neutral	27.4793701171875	0.75
+Two boys with blond-hair, wearing striped shirts on a bed.	Some children are playing.	neutral	contradiction	117.24351501464844	0.25
+A man pointing into the ear wearing a striped shirt in a small boat filled with many people.	A man is pointing into the ear and wearing	entailment	entailment	57.53960800170898	0.15625
+A singer wearing a leather jacket performs on stage with dramatic lighting behind him.	A singer is not performing.	neutral	contradiction	86.73125457763672	0.19047619047619047
+A singer wearing a leather jacket performs on stage with dramatic lighting behind him.	The singer was not present.	entailment	contradiction	58.751014709472656	0.19047619047619047
+Two daschunds play with a red ball	A dog plays with a red ball	entailment	entailment	72.52239990234375	0.42857142857142855
+Two daschunds play with a red ball	An animal is playing with a toy.	neutral	entailment	130.75856018066406	0.5
+A man playing a piano	A person is playing an instrument.	neutral	entailment	93.0972137451172	0.2727272727272727
+A man playing a piano	A boy is playing a musical instrument.	entailment	entailment	62.02376937866211	0.2727272727272727
+San Fransisco 49ers football field with cheerleaders and a packed stadium.	A football game is not happening, and the field is not in use.	neutral	contradiction	34.050331115722656	0.34782608695652173
+San Fransisco 49ers football field with cheerleaders and a packed stadium.	The football game is being played on the field and the stadium is not empty.	entailment	entailment	29.421348571777344	0.34782608695652173
+Many roller derby players skating around the rink.	The roller derby players are sitting.	neutral	contradiction	130.18270874023438	0.3333333333333333
+Many roller derby players skating around the rink.	Roller derby players skating around the rink.	entailment	entailment	42.39381790161133	0.2777777777777778
+A man standing in front of a building on the phone as two men to the side pain on the side.	Two men walk through a building.	entailment	contradiction	55.30567932128906	0.14285714285714285
+A man standing in front of a building on the phone as two men to the side pain on the side.	Two people are moving in a building.	neutral	neutral	67.04047393798828	0.25
+The man in the sailor suit is holding literature.	The man is reading literature.	neutral	neutral	73.6447982788086	0.25
+The man in the sailor suit is holding literature.	A man in a sailor suit is holding literature.	entailment	entailment	20.65614318847656	0.4375
+Two women wearing red are smiling at the camera.	Facing away from the camera, two women wearing different outfits.	neutral	contradiction	29.48079872131348	0.391304347826087
+Two women wearing red are smiling at the camera.	With their backs turned to the camera were two women wearing red dresses.	entailment	contradiction	33.16376876831055	0.08695652173913043
+A young black man is getting his hair buzzed off.	The young black man is getting his hair buzzed off.	entailment	entailment	9.815170288085938	0.3684210526315789
+A young black man is getting his hair buzzed off.	A person is getting a haircut.	neutral	entailment	37.73345947265625	0.3157894736842105
+A man with a pinstriped shirt and tan slacks adjust his tie while looking at a apple laptop computer.	A person adjusts their clothing.	entailment	entailment	81.62611389160156	0.16
+A man with a pinstriped shirt and tan slacks adjust his tie while looking at a apple laptop computer.	The woman adjusts something.	neutral	contradiction	92.8875503540039	0.12
+A man wearing a business suit holds up a drink as the other laughs.	The man is holding up a drink and writing while crying.	entailment	contradiction	42.4759521484375	0.38095238095238093
+A man wearing a business suit holds up a drink as the other laughs.	A man is sitting and typing.	neutral	contradiction	63.27524948120117	0.19047619047619047
+A black man in a blue suit is talking on a cellphone while smoking.	The man is talking on a cellphone while smoking.	entailment	entailment	13.35692310333252	0.3684210526315789
+A black man in a blue suit is talking on a cellphone while smoking.	A man is moving.	neutral	entailment	42.760009765625	0.15789473684210525
+A little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him.	A girl is putting some sunglasses up to a window.	entailment	contradiction	32.74464797973633	0.25925925925925924
+A little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him.	The boy is putting some sunglasses.	neutral	entailment	52.01993942260742	0.18518518518518517
+Three women are dancing among the bamboo.	A group of people are dancing.	entailment	entailment	73.72599792480469	0.13333333333333333
+Three women are dancing among the bamboo.	People are performing.	neutral	entailment	261.8004455566406	0.3333333333333333
+A person in a red shirt is mowing the grass with a green riding mower.	A person wearing red is participating in a sports event.	neutral	neutral	31.59643173217773	0.19230769230769232
+A person in a red shirt is mowing the grass with a green riding mower.	A person in a red shirt is mowing the grass with a green riding mower.	entailment	entailment	8.91364860534668	0.38461538461538464
+"A woman in an American military uniform sits at a table and writes the words ""sad,"" ""depressed,"" and ""hatred"" on a large sheet of white paper."	A woman is writing on a sheet of paper.	entailment	entailment	13.693385124206545	0.11627906976744186
+"A woman in an American military uniform sits at a table and writes the words ""sad,"" ""depressed,"" and ""hatred"" on a large sheet of white paper."	The woman is engaging in a different activity.	neutral	entailment	17.373319625854492	0.11627906976744186
+A businessman in a white sweater conducts necessary business in a plaza using a concrete abutment as a work table.	A businessman in a white sweater	entailment	entailment	59.47182083129883	0.20833333333333334
+A businessman in a white sweater conducts necessary business in a plaza using a concrete abutment as a work table.	A man in a white sweater.	neutral	entailment	72.68061065673828	0.20833333333333334
+A girl in a black sweater and jeans pours water into an empty soda bottle.	A girl pours water into an empty soda bottle.	entailment	entailment	12.013494491577148	0.21739130434782608
+A girl in a black sweater and jeans pours water into an empty soda bottle.	The girl pours water into a container.	neutral	entailment	21.31302261352539	0.17391304347826086
+Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.	The man is wearing something.	neutral	entailment	44.9887580871582	0.058823529411764705
+A white greyhound dog wearing a muzzle runs around a track.	The dog is wearing a muzzle.	entailment	entailment	78.81385040283203	0.05
+A white greyhound dog wearing a muzzle runs around a track.	The dog is wearing something else.	neutral	neutral	106.0993881225586	0.15
+A man in colorful shorts is surfing under a wave.	A man is surfing.	entailment	entailment	84.01901245117188	0.0625
+A man in colorful shorts is surfing under a wave.	The man is relaxing.	neutral	contradiction	96.50072479248048	0.125
+A man swings his tennis racquet as the tennis ball gets closer to him.	A man swings his tennis racquet as the basketball gets closer to him.	entailment	contradiction	12.145569801330566	0.4
+A man swings his tennis racquet as the tennis ball gets closer to him.	The man is playing basketball.	neutral	contradiction	35.17500305175781	0.24
+A man is sitting on the floor and is surrounded by pictures.	A man is sitting on the floor.	entailment	entailment	17.661182403564453	0.14285714285714285
+A man is sitting on the floor and is surrounded by pictures.	The man is sitting on the floor.	neutral	entailment	15.877553939819336	0.19047619047619047
+a boy wearing jean shorts, and a black and blue shirt, reading a book, sits on a rolling device up against a wall that says book fair, while other people stand around.	The boy is engaged in an activity.	neutral	entailment	46.08856964111328	0.11363636363636363
+Two girls, one wearing a pink shirt and the other wearing a blue shirt, are standing against a wall.	The two girls are standing against a wall.	neutral	entailment	9.339430809020996	0.25806451612903225
+Two girls, one wearing a pink shirt and the other wearing a blue shirt, are standing against a wall.	Two girls, one wearing a pink shirt and the other wearing a blue shirt, are playing hopscotch in an open court.	entailment	contradiction	8.030016899108887	0.4838709677419355
+People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.	The people are moving upwards.	neutral	entailment	37.17440032958984	0.1724137931034483
+People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.	People are taking the escalator or the elevator.	entailment	neutral	29.74283790588379	0.10344827586206896
+A person in blue is the only person currently throwing their ball at a bowling alley.	A person is snacking.	neutral	contradiction	89.4940414428711	0.13043478260869565
+A person in blue is the only person currently throwing their ball at a bowling alley.	The person is taking a break from throwing the ball to eat nachos.	entailment	neutral	37.53483963012695	0.391304347826087
+"A man wearing black pants, an orange and brown striped shirt, and a black bandanna in a ""just thrown a bowling ball"" stance."	A bandana is a accessory.	neutral	entailment	46.43204498291016	0.09090909090909091
+At least eight people are sitting at a table in a building that overlooks the city.	The people are seated.	neutral	entailment	24.20581817626953	0.22727272727272727
+At least eight people are sitting at a table in a building that overlooks the city.	People are sitting.	entailment	entailment	23.962282180786133	0.18181818181818182
+A photographer and assistant take a photo of a man in a suit and a woman in a dress in front of large white columns and a yellow wall.	A photographer is capturing an image of a pet.	neutral	contradiction	35.19594955444336	0.125
+A photographer and assistant take a photo of a man in a suit and a woman in a dress in front of large white columns and a yellow wall.	The photographer is taking a photo of a man in a suit and a woman in a dress.	entailment	entailment	12.026230812072754	0.25
